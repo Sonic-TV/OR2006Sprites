@@ -4,4 +4,4 @@ The original textures are extracted by OR2006Tweaks.
 
 Please send me PRs if you have the sprites re-done.
 
-Any of the help inside of this work will be great appreciated.
+Any of the help inside of this work will be greatly appreciated.
