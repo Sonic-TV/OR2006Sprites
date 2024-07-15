@@ -1,0 +1,4 @@
+newmtl texture-0
+map_Kd ../xpr/0-texture.png
+newmtl texture-1
+map_Kd ../xpr/1-texture.png

@@ -1,0 +1,10 @@
+newmtl texture-0
+map_Kd ../xpr/0-texture.png
+newmtl texture-1
+map_Kd ../xpr/1-texture.png
+newmtl texture-2
+map_Kd ../xpr/2-texture.png
+newmtl texture-3
+map_Kd ../xpr/3-texture.png
+newmtl texture-4
+map_Kd ../xpr/4-texture.png
