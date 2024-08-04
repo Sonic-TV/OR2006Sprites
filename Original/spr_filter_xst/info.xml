@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="5" />
+  <DspTbls />
+  <ScrTbl />
+</XST>

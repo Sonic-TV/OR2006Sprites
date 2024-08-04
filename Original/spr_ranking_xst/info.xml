@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="2" />
+  <DspTbls>
+    <Displays>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="24">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="24">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="17">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="17">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="20">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="20">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="23">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="21">
+        <StartX>82</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="23">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="21">
+        <StartX>82</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="25">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="25">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="22">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="22">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="19">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="19">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="18">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="35">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="18">
+        <StartX>40</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="34">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="37">
+        <StartX>0</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>64</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>128</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>192</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>256</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>320</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>384</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>448</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>512</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>576</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="36">
+        <StartX>119</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="36">
+        <StartX>313</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="27">
+        <StartX>437</StartX>
+        <StartY>19</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="27">
+        <StartX>347</StartX>
+        <StartY>19</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="28">
+        <StartX>329</StartX>
+        <StartY>39</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="49">
+        <StartX>427</StartX>
+        <StartY>38</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="48">
+        <StartX>483</StartX>
+        <StartY>38</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="32">
+        <StartX>203</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="33">
+        <StartX>52</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="31">
+        <StartX>580</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="30">
+        <StartX>415</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="36">
+        <StartX>119</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="36">
+        <StartX>313</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="15">
+        <StartX>383</StartX>
+        <StartY>6</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="14">
+        <StartX>360</StartX>
+        <StartY>6</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="32">
+        <StartX>203</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="33">
+        <StartX>52</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="31">
+        <StartX>580</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="29">
+        <StartX>433</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="36">
+        <StartX>119</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="36">
+        <StartX>313</StartX>
+        <StartY>33</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="27">
+        <StartX>356</StartX>
+        <StartY>7</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="26">
+        <StartX>432</StartX>
+        <StartY>7</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="32">
+        <StartX>203</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="33">
+        <StartX>52</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="31">
+        <StartX>580</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="28">
+        <StartX>403</StartX>
+        <StartY>0</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+    <Displays>
+      <Display SpriteIndex="37">
+        <StartX>0</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>64</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>128</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>192</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>256</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>320</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>384</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>448</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>512</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="37">
+        <StartX>576</StartX>
+        <StartY>359</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+      <Display SpriteIndex="16">
+        <StartX>238</StartX>
+        <StartY>378</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+  </DspTbls>
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0.8828125</StartU>
+      <StartV>0</StartV>
+      <EndU>0.98046875</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>452</StartX>
+      <StartY>0</StartY>
+      <EndX>502</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="1" TextureIndex="0">
+      <StartU>0.78515625</StartU>
+      <StartV>0</StartV>
+      <EndU>0.8828125</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>402</StartX>
+      <StartY>0</StartY>
+      <EndX>452</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="2" TextureIndex="0">
+      <StartU>0.6875</StartU>
+      <StartV>0</StartV>
+      <EndU>0.78515625</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>352</StartX>
+      <StartY>0</StartY>
+      <EndX>402</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="3" TextureIndex="0">
+      <StartU>0.5878906</StartU>
+      <StartV>0</StartV>
+      <EndU>0.6855469</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>301</StartX>
+      <StartY>0</StartY>
+      <EndX>351</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="4" TextureIndex="0">
+      <StartU>0.49023438</StartU>
+      <StartV>0</StartV>
+      <EndU>0.5878906</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>251</StartX>
+      <StartY>0</StartY>
+      <EndX>301</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="5" TextureIndex="0">
+      <StartU>0.39257812</StartU>
+      <StartV>0</StartV>
+      <EndU>0.49023438</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>201</StartX>
+      <StartY>0</StartY>
+      <EndX>251</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="6" TextureIndex="0">
+      <StartU>0.29296875</StartU>
+      <StartV>0</StartV>
+      <EndU>0.390625</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>150</StartX>
+      <StartY>0</StartY>
+      <EndX>200</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="7" TextureIndex="0">
+      <StartU>0.1953125</StartU>
+      <StartV>0</StartV>
+      <EndU>0.29296875</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>100</StartX>
+      <StartY>0</StartY>
+      <EndX>150</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="8" TextureIndex="0">
+      <StartU>0.09765625</StartU>
+      <StartV>0</StartV>
+      <EndU>0.1953125</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>50</StartX>
+      <StartY>0</StartY>
+      <EndX>100</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="9" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>0.09765625</EndU>
+      <EndV>0.3671875</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>50</EndX>
+      <EndY>47</EndY>
+    </Sprite>
+    <Sprite Index="10" TextureIndex="0">
+      <StartU>0.890625</StartU>
+      <StartV>0.4140625</StartV>
+      <EndU>0.9453125</EndU>
+      <EndV>0.703125</EndV>
+      <StartX>456</StartX>
+      <StartY>53</StartY>
+      <EndX>484</EndX>
+      <EndY>90</EndY>
+    </Sprite>
+    <Sprite Index="11" TextureIndex="0">
+      <StartU>0.890625</StartU>
+      <StartV>0.7109375</StartV>
+      <EndU>0.9453125</EndU>
+      <EndV>1</EndV>
+      <StartX>456</StartX>
+      <StartY>91</StartY>
+      <EndX>484</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="12" TextureIndex="0">
+      <StartU>0.9453125</StartU>
+      <StartV>0.4140625</StartV>
+      <EndU>1</EndU>
+      <EndV>0.703125</EndV>
+      <StartX>484</StartX>
+      <StartY>53</StartY>
+      <EndX>512</EndX>
+      <EndY>90</EndY>
+    </Sprite>
+    <Sprite Index="13" TextureIndex="0">
+      <StartU>0.9453125</StartU>
+      <StartV>0.7109375</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>484</StartX>
+      <StartY>91</StartY>
+      <EndX>512</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="14" TextureIndex="0">
+      <StartU>0.3125</StartU>
+      <StartV>0.421875</StartV>
+      <EndU>0.37109375</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>160</StartX>
+      <StartY>54</StartY>
+      <EndX>190</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="15" TextureIndex="0">
+      <StartU>0.25390625</StartU>
+      <StartV>0.421875</StartV>
+      <EndU>0.3125</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>130</StartX>
+      <StartY>54</StartY>
+      <EndX>160</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="16" TextureIndex="0">
+      <StartU>0.56640625</StartU>
+      <StartV>0.3828125</StartV>
+      <EndU>0.87890625</EndU>
+      <EndV>0.5703125</EndV>
+      <StartX>290</StartX>
+      <StartY>49</StartY>
+      <EndX>450</EndX>
+      <EndY>73</EndY>
+    </Sprite>
+    <Sprite Index="17" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0.828125</StartV>
+      <EndU>0.29101562</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>106</StartY>
+      <EndX>149</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="18" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0.484375</StartV>
+      <EndU>0.25</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>0</StartX>
+      <StartY>62</StartY>
+      <EndX>128</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="19" TextureIndex="0">
+      <StartU>0.27148438</StartU>
+      <StartV>0.65625</StartV>
+      <EndU>0.5214844</EndU>
+      <EndV>0.828125</EndV>
+      <StartX>139</StartX>
+      <StartY>84</StartY>
+      <EndX>267</EndX>
+      <EndY>106</EndY>
+    </Sprite>
+    <Sprite Index="20" TextureIndex="0">
+      <StartU>0.29492188</StartU>
+      <StartV>0.828125</StartV>
+      <EndU>0.5449219</EndU>
+      <EndV>1</EndV>
+      <StartX>151</StartX>
+      <StartY>106</StartY>
+      <EndX>279</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="21" TextureIndex="0">
+      <StartU>0.6796875</StartU>
+      <StartV>0.578125</StartV>
+      <EndU>0.8046875</EndU>
+      <EndV>0.75</EndV>
+      <StartX>348</StartX>
+      <StartY>74</StartY>
+      <EndX>412</EndX>
+      <EndY>96</EndY>
+    </Sprite>
+    <Sprite Index="22" TextureIndex="0">
+      <StartU>0.1328125</StartU>
+      <StartV>0.65625</StartV>
+      <EndU>0.2578125</EndU>
+      <EndV>0.828125</EndV>
+      <StartX>68</StartX>
+      <StartY>84</StartY>
+      <EndX>132</EndX>
+      <EndY>106</EndY>
+    </Sprite>
+    <Sprite Index="23" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0.65625</StartV>
+      <EndU>0.125</EndU>
+      <EndV>0.828125</EndV>
+      <StartX>0</StartX>
+      <StartY>84</StartY>
+      <EndX>64</EndX>
+      <EndY>106</EndY>
+    </Sprite>
+    <Sprite Index="24" TextureIndex="0">
+      <StartU>0.53125</StartU>
+      <StartV>0.5703125</StartV>
+      <EndU>0.65625</EndU>
+      <EndV>0.7421875</EndV>
+      <StartX>272</StartX>
+      <StartY>73</StartY>
+      <EndX>336</EndX>
+      <EndY>95</EndY>
+    </Sprite>
+    <Sprite Index="25" TextureIndex="0">
+      <StartU>0.375</StartU>
+      <StartV>0.484375</StartV>
+      <EndU>0.4375</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>192</StartX>
+      <StartY>62</StartY>
+      <EndX>224</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="26" TextureIndex="0">
+      <StartU>0.44140625</StartU>
+      <StartV>0.484375</StartV>
+      <EndU>0.484375</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>226</StartX>
+      <StartY>62</StartY>
+      <EndX>248</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="27" TextureIndex="0">
+      <StartU>0.48828125</StartU>
+      <StartV>0.484375</StartV>
+      <EndU>0.53125</EndU>
+      <EndV>0.65625</EndV>
+      <StartX>250</StartX>
+      <StartY>62</StartY>
+      <EndX>272</EndX>
+      <EndY>84</EndY>
+    </Sprite>
+    <Sprite Index="28" TextureIndex="0">
+      <StartU>0.6640625</StartU>
+      <StartV>0.75</StartV>
+      <EndU>0.8066406</EndU>
+      <EndV>0.875</EndV>
+      <StartX>340</StartX>
+      <StartY>96</StartY>
+      <EndX>413</EndX>
+      <EndY>112</EndY>
+    </Sprite>
+    <Sprite Index="29" TextureIndex="0">
+      <StartU>0.7011719</StartU>
+      <StartV>0.875</StartV>
+      <EndU>0.7949219</EndU>
+      <EndV>1</EndV>
+      <StartX>359</StartX>
+      <StartY>112</StartY>
+      <EndX>407</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="30" TextureIndex="0">
+      <StartU>0.8046875</StartU>
+      <StartV>0.625</StartV>
+      <EndU>0.88671875</EndU>
+      <EndV>0.75</EndV>
+      <StartX>412</StartX>
+      <StartY>80</StartY>
+      <EndX>454</EndX>
+      <EndY>96</EndY>
+    </Sprite>
+    <Sprite Index="31" TextureIndex="0">
+      <StartU>0.578125</StartU>
+      <StartV>0.75</StartV>
+      <EndU>0.66015625</EndU>
+      <EndV>0.875</EndV>
+      <StartX>296</StartX>
+      <StartY>96</StartY>
+      <EndX>338</EndX>
+      <EndY>112</EndY>
+    </Sprite>
+    <Sprite Index="32" TextureIndex="0">
+      <StartU>0.8066406</StartU>
+      <StartV>0.875</StartV>
+      <EndU>0.88671875</EndU>
+      <EndV>1</EndV>
+      <StartX>413</StartX>
+      <StartY>112</StartY>
+      <EndX>454</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="33" TextureIndex="0">
+      <StartU>0.8125</StartU>
+      <StartV>0.75</StartV>
+      <EndU>0.88671875</EndU>
+      <EndV>0.875</EndV>
+      <StartX>416</StartX>
+      <StartY>96</StartY>
+      <EndX>454</EndX>
+      <EndY>112</EndY>
+    </Sprite>
+    <Sprite Index="34" TextureIndex="0">
+      <StartU>0.5449219</StartU>
+      <StartV>0.875</StartV>
+      <EndU>0.6152344</EndU>
+      <EndV>1</EndV>
+      <StartX>279</StartX>
+      <StartY>112</StartY>
+      <EndX>315</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="35" TextureIndex="0">
+      <StartU>0.6230469</StartU>
+      <StartV>0.875</StartV>
+      <EndU>0.6933594</EndU>
+      <EndV>1</EndV>
+      <StartX>319</StartX>
+      <StartY>112</StartY>
+      <EndX>355</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="36" TextureIndex="0">
+      <StartU>0.39257812</StartU>
+      <StartV>0.3671875</StartV>
+      <EndU>1</EndU>
+      <EndV>0.3828125</EndV>
+      <StartX>201</StartX>
+      <StartY>47</StartY>
+      <EndX>512</EndX>
+      <EndY>49</EndY>
+    </Sprite>
+    <Sprite Index="37" TextureIndex="1">
+      <StartU>0</StartU>
+      <StartV>0.19921875</StartV>
+      <EndU>0.25</EndU>
+      <EndV>0.44921875</EndV>
+      <StartX>0</StartX>
+      <StartY>51</StartY>
+      <EndX>64</EndX>
+      <EndY>115</EndY>
+    </Sprite>
+    <Sprite Index="38" TextureIndex="1">
+      <StartU>0.25</StartU>
+      <StartV>0.19921875</StartV>
+      <EndU>0.5</EndU>
+      <EndV>0.44921875</EndV>
+      <StartX>64</StartX>
+      <StartY>51</StartY>
+      <EndX>128</EndX>
+      <EndY>115</EndY>
+    </Sprite>
+    <Sprite Index="39" TextureIndex="1">
+      <StartU>0.28125</StartU>
+      <StartV>0.09375</StartV>
+      <EndU>0.375</EndU>
+      <EndV>0.1875</EndV>
+      <StartX>72</StartX>
+      <StartY>24</StartY>
+      <EndX>96</EndX>
+      <EndY>48</EndY>
+    </Sprite>
+    <Sprite Index="40" TextureIndex="1">
+      <StartU>0.1875</StartU>
+      <StartV>0.09375</StartV>
+      <EndU>0.28125</EndU>
+      <EndV>0.1875</EndV>
+      <StartX>48</StartX>
+      <StartY>24</StartY>
+      <EndX>72</EndX>
+      <EndY>48</EndY>
+    </Sprite>
+    <Sprite Index="41" TextureIndex="1">
+      <StartU>0.09375</StartU>
+      <StartV>0.09375</StartV>
+      <EndU>0.1875</EndU>
+      <EndV>0.1875</EndV>
+      <StartX>24</StartX>
+      <StartY>24</StartY>
+      <EndX>48</EndX>
+      <EndY>48</EndY>
+    </Sprite>
+    <Sprite Index="42" TextureIndex="1">
+      <StartU>0</StartU>
+      <StartV>0.09375</StartV>
+      <EndU>0.09375</EndU>
+      <EndV>0.1875</EndV>
+      <StartX>0</StartX>
+      <StartY>24</StartY>
+      <EndX>24</EndX>
+      <EndY>48</EndY>
+    </Sprite>
+    <Sprite Index="43" TextureIndex="1">
+      <StartU>0.28125</StartU>
+      <StartV>0</StartV>
+      <EndU>0.375</EndU>
+      <EndV>0.09375</EndV>
+      <StartX>72</StartX>
+      <StartY>0</StartY>
+      <EndX>96</EndX>
+      <EndY>24</EndY>
+    </Sprite>
+    <Sprite Index="44" TextureIndex="1">
+      <StartU>0.1875</StartU>
+      <StartV>0</StartV>
+      <EndU>0.28125</EndU>
+      <EndV>0.09375</EndV>
+      <StartX>48</StartX>
+      <StartY>0</StartY>
+      <EndX>72</EndX>
+      <EndY>24</EndY>
+    </Sprite>
+    <Sprite Index="45" TextureIndex="1">
+      <StartU>0.09375</StartU>
+      <StartV>0</StartV>
+      <EndU>0.1875</EndU>
+      <EndV>0.09375</EndV>
+      <StartX>24</StartX>
+      <StartY>0</StartY>
+      <EndX>48</EndX>
+      <EndY>24</EndY>
+    </Sprite>
+    <Sprite Index="46" TextureIndex="1">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>0.09375</EndU>
+      <EndV>0.09375</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>24</EndX>
+      <EndY>24</EndY>
+    </Sprite>
+    <Sprite Index="47" TextureIndex="1">
+      <StartU>0.66015625</StartU>
+      <StartV>0</StartV>
+      <EndU>0.73828125</EndU>
+      <EndV>0.078125</EndV>
+      <StartX>169</StartX>
+      <StartY>0</StartY>
+      <EndX>189</EndX>
+      <EndY>20</EndY>
+    </Sprite>
+    <Sprite Index="48" TextureIndex="1">
+      <StartU>0.58203125</StartU>
+      <StartV>0</StartV>
+      <EndU>0.66015625</EndU>
+      <EndV>0.078125</EndV>
+      <StartX>149</StartX>
+      <StartY>0</StartY>
+      <EndX>169</EndX>
+      <EndY>20</EndY>
+    </Sprite>
+    <Sprite Index="49" TextureIndex="1">
+      <StartU>0.50390625</StartU>
+      <StartV>0</StartV>
+      <EndU>0.58203125</EndU>
+      <EndV>0.078125</EndV>
+      <StartX>129</StartX>
+      <StartY>0</StartY>
+      <EndX>149</EndX>
+      <EndY>20</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>
