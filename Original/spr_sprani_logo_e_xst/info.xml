@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="2" />
+  <DspTbls />
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0.001953125</StartU>
+      <StartV>0.001953125</StartV>
+      <EndU>0.9980469</EndU>
+      <EndV>0.9980469</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>511</EndX>
+      <EndY>511</EndY>
+    </Sprite>
+    <Sprite Index="1" TextureIndex="1">
+      <StartU>0.0009765625</StartU>
+      <StartV>0.00390625</StartV>
+      <EndU>0.24902344</EndU>
+      <EndV>0.49609375</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>255</EndX>
+      <EndY>127</EndY>
+    </Sprite>
+    <Sprite Index="2" TextureIndex="1">
+      <StartU>0.0009765625</StartU>
+      <StartV>0.50390625</StartV>
+      <EndU>0.19433594</EndU>
+      <EndV>0.91796875</EndV>
+      <StartX>1</StartX>
+      <StartY>129</StartY>
+      <EndX>199</EndX>
+      <EndY>235</EndY>
+    </Sprite>
+    <Sprite Index="3" TextureIndex="1">
+      <StartU>0.25097656</StartU>
+      <StartV>0.00390625</StartV>
+      <EndU>0.49902344</EndU>
+      <EndV>0.33984375</EndV>
+      <StartX>257</StartX>
+      <StartY>1</StartY>
+      <EndX>511</EndX>
+      <EndY>87</EndY>
+    </Sprite>
+    <Sprite Index="4" TextureIndex="1">
+      <StartU>0.25097656</StartU>
+      <StartV>0.34765625</StartV>
+      <EndU>0.81152344</EndU>
+      <EndV>0.46484375</EndV>
+      <StartX>257</StartX>
+      <StartY>89</StartY>
+      <EndX>831</EndX>
+      <EndY>119</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>

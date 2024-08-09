@@ -1,0 +1,77 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 256,
+    "image": "texture_15.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_214",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1,
+                1,
+                126,
+                126
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_215",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                129,
+                1,
+                126,
+                126
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_216",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1,
+                129,
+                126,
+                126
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_217",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                129,
+                129,
+                126,
+                126
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 4,
+    "rotations": false,
+    "using_grid": false,
+    "width": 256
+}
