@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="10" />
+  <DspTbls />
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>256</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="1" TextureIndex="1">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>256</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="2" TextureIndex="2">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>512</EndX>
+      <EndY>256</EndY>
+    </Sprite>
+    <Sprite Index="3" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>512</EndX>
+      <EndY>512</EndY>
+    </Sprite>
+    <Sprite Index="4" TextureIndex="4">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>512</EndX>
+      <EndY>256</EndY>
+    </Sprite>
+    <Sprite Index="5" TextureIndex="5">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>512</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="6" TextureIndex="6">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>256</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="7" TextureIndex="7">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>256</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="8" TextureIndex="8">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>256</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="9" TextureIndex="9">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>1</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>512</EndX>
+      <EndY>256</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>
