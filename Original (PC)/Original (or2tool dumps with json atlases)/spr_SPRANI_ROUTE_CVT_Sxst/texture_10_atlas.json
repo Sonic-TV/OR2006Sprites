@@ -1,0 +1,32 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 256,
+    "image": "texture_10.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_78",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                126,
+                10,
+                130
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 1,
+    "rotations": false,
+    "using_grid": false,
+    "width": 256
+}
