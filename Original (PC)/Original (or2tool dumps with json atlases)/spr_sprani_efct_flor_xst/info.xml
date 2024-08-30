@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="1" />
+  <DspTbls />
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>0.75</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>192</EndX>
+      <EndY>256</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="5" />
+  <DspTbls />
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0.03125</StartU>
+      <StartV>0.001953125</StartV>
+      <EndU>0.96875</EndU>
+      <EndV>0.9824219</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>31</EndX>
+      <EndY>503</EndY>
+    </Sprite>
+    <Sprite Index="1" TextureIndex="1">
+      <StartU>0.001953125</StartU>
+      <StartV>0.001953125</StartV>
+      <EndU>0.7792969</EndU>
+      <EndV>0.49804688</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>399</EndX>
+      <EndY>255</EndY>
+    </Sprite>
+    <Sprite Index="2" TextureIndex="1">
+      <StartU>0.001953125</StartU>
+      <StartV>0.5019531</StartV>
+      <EndU>0.7792969</EndU>
+      <EndV>0.9980469</EndV>
+      <StartX>1</StartX>
+      <StartY>257</StartY>
+      <EndX>399</EndX>
+      <EndY>511</EndY>
+    </Sprite>
+    <Sprite Index="3" TextureIndex="1">
+      <StartU>0.7832031</StartU>
+      <StartV>0.001953125</StartV>
+      <EndU>0.9121094</EndU>
+      <EndV>0.052734375</EndV>
+      <StartX>401</StartX>
+      <StartY>1</StartY>
+      <EndX>467</EndX>
+      <EndY>27</EndY>
+    </Sprite>
+    <Sprite Index="4" TextureIndex="2">
+      <StartU>0.001953125</StartU>
+      <StartV>0.001953125</StartV>
+      <EndU>0.7792969</EndU>
+      <EndV>0.49804688</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>399</EndX>
+      <EndY>255</EndY>
+    </Sprite>
+    <Sprite Index="5" TextureIndex="2">
+      <StartU>0.001953125</StartU>
+      <StartV>0.5019531</StartV>
+      <EndU>0.7792969</EndU>
+      <EndV>0.9980469</EndV>
+      <StartX>1</StartX>
+      <StartY>257</StartY>
+      <EndX>399</EndX>
+      <EndY>511</EndY>
+    </Sprite>
+    <Sprite Index="6" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0.60546875</StartV>
+      <EndU>0.58203125</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>310</StartY>
+      <EndX>298</EndX>
+      <EndY>512</EndY>
+    </Sprite>
+    <Sprite Index="7" TextureIndex="3">
+      <StartU>0.58203125</StartU>
+      <StartV>0.83984375</StartV>
+      <EndU>0.875</EndU>
+      <EndV>1</EndV>
+      <StartX>298</StartX>
+      <StartY>430</StartY>
+      <EndX>448</EndX>
+      <EndY>512</EndY>
+    </Sprite>
+    <Sprite Index="8" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0.4453125</StartV>
+      <EndU>0.29296875</EndU>
+      <EndV>0.60546875</EndV>
+      <StartX>0</StartX>
+      <StartY>228</StartY>
+      <EndX>150</EndX>
+      <EndY>310</EndY>
+    </Sprite>
+    <Sprite Index="9" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0.34765625</StartV>
+      <EndU>0.72265625</EndU>
+      <EndV>0.4453125</EndV>
+      <StartX>0</StartX>
+      <StartY>178</StartY>
+      <EndX>370</EndX>
+      <EndY>228</EndY>
+    </Sprite>
+    <Sprite Index="10" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0.265625</StartV>
+      <EndU>0.58203125</EndU>
+      <EndV>0.34765625</EndV>
+      <StartX>0</StartX>
+      <StartY>136</StartY>
+      <EndX>298</EndX>
+      <EndY>178</EndY>
+    </Sprite>
+    <Sprite Index="11" TextureIndex="3">
+      <StartU>0</StartU>
+      <StartV>0.20703125</StartV>
+      <EndU>0.44921875</EndU>
+      <EndV>0.265625</EndV>
+      <StartX>0</StartX>
+      <StartY>106</StartY>
+      <EndX>230</EndX>
+      <EndY>136</EndY>
+    </Sprite>
+    <Sprite Index="12" TextureIndex="3">
+      <StartU>0.44921875</StartU>
+      <StartV>0.20703125</StartV>
+      <EndU>0.8984375</EndU>
+      <EndV>0.265625</EndV>
+      <StartX>230</StartX>
+      <StartY>106</StartY>
+      <EndX>460</EndX>
+      <EndY>136</EndY>
+    </Sprite>
+    <Sprite Index="13" TextureIndex="4">
+      <StartU>0.001953125</StartU>
+      <StartV>0.00390625</StartV>
+      <EndU>0.5839844</EndU>
+      <EndV>0.79296875</EndV>
+      <StartX>1</StartX>
+      <StartY>1</StartY>
+      <EndX>299</EndX>
+      <EndY>203</EndY>
+    </Sprite>
+    <Sprite Index="14" TextureIndex="4">
+      <StartU>0.5878906</StartU>
+      <StartV>0.00390625</StartV>
+      <EndU>0.8339844</EndU>
+      <EndV>0.12109375</EndV>
+      <StartX>301</StartX>
+      <StartY>1</StartY>
+      <EndX>427</EndX>
+      <EndY>31</EndY>
+    </Sprite>
+    <Sprite Index="15" TextureIndex="4">
+      <StartU>0.5878906</StartU>
+      <StartV>0.12890625</StartV>
+      <EndU>0.8339844</EndU>
+      <EndV>0.24609375</EndV>
+      <StartX>301</StartX>
+      <StartY>33</StartY>
+      <EndX>427</EndX>
+      <EndY>63</EndY>
+    </Sprite>
+    <Sprite Index="16" TextureIndex="4">
+      <StartU>0.8378906</StartU>
+      <StartV>0.00390625</StartV>
+      <EndU>0.9941406</EndU>
+      <EndV>0.12109375</EndV>
+      <StartX>429</StartX>
+      <StartY>1</StartY>
+      <EndX>509</EndX>
+      <EndY>31</EndY>
+    </Sprite>
+    <Sprite Index="17" TextureIndex="4">
+      <StartU>0.8378906</StartU>
+      <StartV>0.12890625</StartV>
+      <EndU>0.9941406</EndU>
+      <EndV>0.24609375</EndV>
+      <StartX>429</StartX>
+      <StartY>33</StartY>
+      <EndX>509</EndX>
+      <EndY>63</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>
