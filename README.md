@@ -28,15 +28,16 @@ There's quite a bit of mixing and matching to do.
 ## Special Thanks to Contributors
 emoose for making this possible
 
-Various asset contributors (in no particular order—if you made a new texture/asset and I forgot, let me know):
-* SonicTV
+Various  contributors:
 * sharkcheese
 * Bisboch
 * espiox
 * DonelBueno
+* Don Don
 * Dragoonglue
 * .k.s.d.
 * darillone
 * Habanero
 * thegreatprophetzarquon
 * Danhanado
+* k0pp0
