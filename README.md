@@ -28,7 +28,7 @@ There's quite a bit of mixing and matching to do. This is where the TL;DR instru
 ## Special Thanks to Contributors
 emoose for making this possible
 
-Various  contributors:
+Various contributors (let me know if I forgot someone, I'm forgetful):
 * sharkcheese
 * Bisboch
 * espiox
