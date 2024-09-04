@@ -20,7 +20,7 @@ Contains texture dumps from different versions of Outrun 2. The PC folder contai
 Contains any PSD files that were shared.
 
 ## Remake
-Contains HD asset remakes and miscellanious retexture mods.
+Contains HD asset remakes and miscellanious retexture mods. Note that WIP contains placeholder AI upscale assets, so use those at your own risk or wait until they're complete.
 
 ## Feeling overwhelmed?
 There's quite a bit of mixing and matching to do.
