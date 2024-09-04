@@ -23,7 +23,7 @@ Contains any PSD files that were shared.
 Contains HD asset remakes and miscellanious retexture mods. Note that WIP contains placeholder AI upscale assets, so use those at your own risk or wait until they're complete.
 
 ## Feeling overwhelmed?
-There's quite a bit of mixing and matching to do.
+There's quite a bit of mixing and matching to do. This is where the TL;DR instructions will go later.
 
 ## Special Thanks to Contributors
 emoose for making this possible
