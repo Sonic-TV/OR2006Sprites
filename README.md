@@ -20,11 +20,12 @@ Contains texture dumps from different versions of Outrun 2. The PC folder contai
 Contains any PSD files that were shared.
 
 # Remake
-Contains HD asset remakes and miscellanious retexture mods. Note that WIP contains placeholder AI upscale assets, so use those at your own risk or wait until they're complete.
+Contains HD asset remakes and miscellanious retexture mods. Note that WIP contains placeholder AI upscale assets, so use those at your own risk or wait until they're complete. The UI folder should be ready to drop into your `textures/load` folder (if they're in subfolders, make sure you move the folders inside to `textures/load`.
 
 ## Textures/Sprites
 
 ### [UI](/Remakes%20and%20Reskins/UI/)
+
 
 #### [Album Covers](/Remakes%20and%20Reskins/UI/Album%20Covers/)
 Contains HD remakes of the music albums.
@@ -38,14 +39,51 @@ Contains HD versions of the various menu fonts.
 #### [Menus](/Remakes%20and%20Reskins/UI/Menus)
 Contains HD versions of the various menu sprites.
 
-#### Billboards
-In the [Billboards](/Remakes%20and%20Reskins/Levels/Billboards/) folder, you'll find two folders. **Invisible Billboards**, for if you want to completely remove the billboards altogether, and **SEGA Billboards (Habanero)** for some fan-made SEGA billboards. You can leave **Invisible Billboards** in the `/load/` folder, since the game reuses the same billboards for multiple levels. **SEGA Billboards** was designed with giving each billboard a unique image, so you should put those in the respective folder of the level whose billboard you want to replace. You can download a dump of all the billboards sorted into their level folders [here](https://github.com/ksdomino/or2billboards/releases), with a level folder name table included.
+#### [Tachometer](/Remakes%20and%20Reskins/UI/Tachometers)
+Contains HD versions of the car tachometers.
 
-#### Invisible Road Signs
-In the [Road Signs](/Remakes%20and%20Reskins/Levels/Invisible%20Road%20Signs/) folder, you'll find a texture replacement zip that makes all road signs invisible. Aside from reducing visual clutter and making the stages look nicer, this also provides a bit of extra challenge so you have to memorize the stage rather than using the road signs as a crutch.
 
-#### HD Drivers' Licenses
-As of this [version of Tweaks](https://github.com/emoose/OutRun2006Tweaks/actions/runs/10657217498), you can now change your character to Sam, Wolf, or Alberto (all of the girlfriends don't render properly in-game as drivers). `Remakes and Reskins/UI/Menus/spr_sprani_sumo_fe_cvt_Exst/D2065DF6_256x256.dds` contains an HD remake of the license menu.
+### [Girlfriends](/Remakes%20and%20Reskins/Girlfriends/)
+
+#### Clarissa Holly - Sprite Fix - Lindbergh Sprites Uncensored (v9 by iguanaclerk)
+Contains HQ sprites sourced and cleaned up from the Lindbergh version. Make sure you grab these.
+
+#### Clarissa & Holly Alternate Passenger Colors (Redhead and Brunette respectively)
+Lets you swap out the hair and outfit colors for these two with their unused (rival?) girlfriend versions.
+
+### [Levels](/Remakes%20and%20Reskins/Levels/)
+
+
+####  [Billboards](/Remakes%20and%20Reskins/Levels/Billboards/) 
+In this folder, you'll find two subfolders. **Invisible Billboards**, for if you want to completely remove the billboards altogether, and **SEGA Billboards (Habanero)** (WIP) for some fan-made SEGA billboards. You can leave **Invisible Billboards** in the `/load/` folder, since the game reuses the same billboards for multiple levels. **SEGA Billboards** was designed with giving each billboard a unique image, so you should put those in the respective folder of the level whose billboard you want to replace. You can download a dump of all the billboards sorted into their level folders [here](https://github.com/ksdomino/or2billboards/releases), with a level folder name table included.
+
+####  [Checkpoint Flags](/Remakes%20and%20Reskins/Levels/Checkpoint%20Flag%20Remake/) 
+
+####  [Goal Flags](/Remakes%20and%20Reskins/Levels/Goal%20Flags%20Remake/) 
+
+####  [Highway Bunki Signs](/Remakes%20and%20Reskins/Levels/Highway%20Signs%20Remake/) 
+Contains a remake of the green highway signs, and the associated stage icon. The signs use Road Geek as the imitation font.
+
+#### [Invisible Road Signs](/Remakes%20and%20Reskins/Levels/Invisible%20Road%20Signs/) 
+In this folder, you'll find a texture replacement zip that makes all road signs invisible. Aside from reducing visual clutter and making the stages look nicer, this also provides a bit of extra challenge so you have to memorize the stage rather than using the road signs as a crutch.
+
+#### [Skyboxes](/Remakes%20and%20Reskins/Levels/Skyboxes/) 
+WIP. Contains new skybox tiles generated in Stable Diffusion 1.5, to replace the often-times super compressed, low quality skyboxes that come with the game.
+
+#### [Sunny Beach buoy (SASRT)](/Remakes%20and%20Reskins/Levels/Sunny%20Beach%20buoy%20(SASRT)/) 
+Replaces the beach buoy arrow on Sunny Beach with an identical, higher quality one from the Outrun Bay level, from Sonic & All Stars Racing Transformed.
+
+### [Car Skins and Details](/Remakes%20and%20Reskins/Car%20Skins%20and%20Details/)
+
+#### [Car Detail Remakes](/Remakes%20and%20Reskins/Car%20Detail%20Remakes/)
+Contains remakes of the textures that appear on/in player cars.
+
+#### [Car Reskins](/Remakes%20and%20Reskins/Car%20Detail%20Reskins/)
+Contains alternate liveries for cars. Note that all cars share from the same handful of textures, so you can only really edit the color of two or three cars and have it look good. It is recommended that you pick on car and design/use liveries around that one.
+
+#### [License Plates](/Remakes%20and%20Reskins/License%20Plates/)
+
+
 
 ## Special Thanks to Contributors
 emoose for making this possible
