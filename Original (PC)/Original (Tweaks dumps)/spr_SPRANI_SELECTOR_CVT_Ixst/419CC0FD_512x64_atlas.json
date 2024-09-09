@@ -1,0 +1,32 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 64,
+    "image": "419CC0FD_512x64.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_350",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                0,
+                512,
+                64
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 1,
+    "rotations": false,
+    "using_grid": false,
+    "width": 64
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<XST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header Flags="0" TextureCount="1" />
+  <DspTbls>
+    <Displays>
+      <Display SpriteIndex="0">
+        <StartX>472</StartX>
+        <StartY>328</StartY>
+        <Rotation>0</Rotation>
+        <Flip>0</Flip>
+      </Display>
+    </Displays>
+  </DspTbls>
+  <ScrTbl>
+    <Sprite Index="0" TextureIndex="0">
+      <StartU>0</StartU>
+      <StartV>0</StartV>
+      <EndU>0.5</EndU>
+      <EndV>1</EndV>
+      <StartX>0</StartX>
+      <StartY>0</StartY>
+      <EndX>128</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+    <Sprite Index="1" TextureIndex="0">
+      <StartU>0.515625</StartU>
+      <StartV>0</StartV>
+      <EndU>0.578125</EndU>
+      <EndV>1</EndV>
+      <StartX>132</StartX>
+      <StartY>0</StartY>
+      <EndX>148</EndX>
+      <EndY>128</EndY>
+    </Sprite>
+  </ScrTbl>
+</XST>

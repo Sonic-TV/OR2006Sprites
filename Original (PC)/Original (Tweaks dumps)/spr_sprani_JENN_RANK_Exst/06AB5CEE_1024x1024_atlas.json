@@ -1,0 +1,197 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1024,
+    "image": "06AB5CEE_1024x1024.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_6",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                626,
+                272,
+                398
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_7",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                272,
+                770,
+                512,
+                254
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_8",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                372,
+                430,
+                254
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_9",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                430,
+                372,
+                410,
+                254
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_10",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                118,
+                254,
+                254
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_11",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                254,
+                278,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_12",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                380,
+                278,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "sprite_13",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                506,
+                278,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 8,
+            "name": "sprite_14",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                632,
+                278,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 9,
+            "name": "sprite_15",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                758,
+                278,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 10,
+            "name": "sprite_16",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                884,
+                334,
+                70,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 11,
+            "name": "sprite_17",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                954,
+                342,
+                30,
+                30
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 12,
+    "rotations": false,
+    "using_grid": false,
+    "width": 1024
+}

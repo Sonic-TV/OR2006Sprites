@@ -1,0 +1,107 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 512,
+    "image": "D1628D0C_512x512.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_774",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                472,
+                450,
+                40
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_775",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                432,
+                450,
+                40
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_776",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                392,
+                450,
+                40
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_777",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                352,
+                450,
+                40
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_778",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                312,
+                450,
+                40
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_779",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                272,
+                450,
+                40
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 6,
+    "rotations": false,
+    "using_grid": false,
+    "width": 512
+}

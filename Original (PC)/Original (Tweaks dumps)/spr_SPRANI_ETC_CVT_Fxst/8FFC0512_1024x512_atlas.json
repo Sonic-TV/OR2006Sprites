@@ -1,0 +1,1877 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 512,
+    "image": "8FFC0512_1024x512.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_565",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                392,
+                122,
+                120
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_566",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                328,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_567",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                286,
+                182,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_568",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                248,
+                210,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_569",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                210,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_570",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                180,
+                298,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_571",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                154,
+                126,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "sprite_572",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                132,
+                328,
+                22
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 8,
+            "name": "sprite_573",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                111,
+                195,
+                21
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 9,
+            "name": "sprite_574",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                94,
+                284,
+                17
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 10,
+            "name": "sprite_575",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                78,
+                280,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 11,
+            "name": "sprite_576",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                62,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 12,
+            "name": "sprite_577",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                46,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 13,
+            "name": "sprite_578",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                30,
+                275,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 14,
+            "name": "sprite_579",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                14,
+                265,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 15,
+            "name": "sprite_580",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                0,
+                300,
+                14
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 16,
+            "name": "sprite_581",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                300,
+                0,
+                300,
+                14
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 17,
+            "name": "sprite_582",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                600,
+                0,
+                106,
+                14
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 18,
+            "name": "sprite_583",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                706,
+                0,
+                18,
+                14
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 19,
+            "name": "sprite_584",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                724,
+                0,
+                14,
+                14
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 20,
+            "name": "sprite_585",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                738,
+                1,
+                18,
+                13
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 21,
+            "name": "sprite_586",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                756,
+                1,
+                17,
+                13
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 22,
+            "name": "sprite_587",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                773,
+                4,
+                122,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 23,
+            "name": "sprite_588",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                895,
+                4,
+                14,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 24,
+            "name": "sprite_589",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                909,
+                4,
+                14,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 25,
+            "name": "sprite_590",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                923,
+                4,
+                14,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 26,
+            "name": "sprite_591",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                937,
+                4,
+                14,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 27,
+            "name": "sprite_592",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                951,
+                4,
+                14,
+                10
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 28,
+            "name": "sprite_593",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                965,
+                5,
+                8,
+                9
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 29,
+            "name": "sprite_594",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                973,
+                5,
+                8,
+                9
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 30,
+            "name": "sprite_595",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                981,
+                6,
+                9,
+                8
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 31,
+            "name": "sprite_596",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                990,
+                6,
+                9,
+                8
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 32,
+            "name": "sprite_597",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                999,
+                6,
+                6,
+                8
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 33,
+            "name": "sprite_598",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1005,
+                8,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 34,
+            "name": "sprite_599",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1015,
+                9,
+                5,
+                5
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 35,
+            "name": "sprite_600",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                265,
+                14,
+                265,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 36,
+            "name": "sprite_601",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                530,
+                14,
+                265,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 37,
+            "name": "sprite_602",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                795,
+                14,
+                166,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 38,
+            "name": "sprite_603",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                961,
+                14,
+                61,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 39,
+            "name": "sprite_604",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                275,
+                30,
+                269,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 40,
+            "name": "sprite_605",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                544,
+                30,
+                268,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 41,
+            "name": "sprite_606",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                812,
+                30,
+                166,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 42,
+            "name": "sprite_607",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                978,
+                40,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 43,
+            "name": "sprite_608",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                988,
+                40,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 44,
+            "name": "sprite_609",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                998,
+                40,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 45,
+            "name": "sprite_610",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1008,
+                40,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 46,
+            "name": "sprite_611",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                279,
+                46,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 47,
+            "name": "sprite_612",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                558,
+                46,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 48,
+            "name": "sprite_613",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                837,
+                46,
+                142,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 49,
+            "name": "sprite_614",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                979,
+                56,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 50,
+            "name": "sprite_615",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                989,
+                56,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 51,
+            "name": "sprite_616",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                999,
+                56,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 52,
+            "name": "sprite_617",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1009,
+                56,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 53,
+            "name": "sprite_618",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                279,
+                62,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 54,
+            "name": "sprite_619",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                558,
+                62,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 55,
+            "name": "sprite_620",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                837,
+                62,
+                61,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 56,
+            "name": "sprite_621",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                898,
+                72,
+                10,
+                6
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 57,
+            "name": "sprite_622",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                908,
+                76,
+                35,
+                2
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 58,
+            "name": "sprite_623",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                943,
+                77,
+                21,
+                1
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 59,
+            "name": "sprite_624",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                280,
+                78,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 60,
+            "name": "sprite_625",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                559,
+                78,
+                279,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 61,
+            "name": "sprite_626",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                284,
+                95,
+                356,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 62,
+            "name": "sprite_627",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                640,
+                95,
+                294,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 63,
+            "name": "sprite_628",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                195,
+                112,
+                30,
+                20
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 64,
+            "name": "sprite_629",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                225,
+                113,
+                247,
+                19
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 65,
+            "name": "sprite_630",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                472,
+                114,
+                298,
+                18
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 66,
+            "name": "sprite_631",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                770,
+                114,
+                170,
+                18
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 67,
+            "name": "sprite_632",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                940,
+                114,
+                82,
+                18
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 68,
+            "name": "sprite_633",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                328,
+                132,
+                158,
+                22
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 69,
+            "name": "sprite_634",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                486,
+                132,
+                84,
+                22
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 70,
+            "name": "sprite_635",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                570,
+                132,
+                50,
+                22
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 71,
+            "name": "sprite_636",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                620,
+                133,
+                368,
+                21
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 72,
+            "name": "sprite_637",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                988,
+                136,
+                18,
+                18
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 73,
+            "name": "sprite_638",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                126,
+                154,
+                126,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 74,
+            "name": "sprite_639",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                252,
+                154,
+                78,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 75,
+            "name": "sprite_640",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                330,
+                154,
+                72,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 76,
+            "name": "sprite_641",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                402,
+                154,
+                62,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 77,
+            "name": "sprite_642",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                464,
+                154,
+                30,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 78,
+            "name": "sprite_643",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                494,
+                154,
+                30,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 79,
+            "name": "sprite_644",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                524,
+                154,
+                30,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 80,
+            "name": "sprite_645",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                554,
+                154,
+                30,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 81,
+            "name": "sprite_646",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                584,
+                157,
+                250,
+                23
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 82,
+            "name": "sprite_647",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                834,
+                157,
+                48,
+                23
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 83,
+            "name": "sprite_648",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                298,
+                180,
+                31,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 84,
+            "name": "sprite_649",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                329,
+                184,
+                194,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 85,
+            "name": "sprite_650",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                523,
+                184,
+                194,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 86,
+            "name": "sprite_651",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                717,
+                184,
+                194,
+                26
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 87,
+            "name": "sprite_652",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                126,
+                210,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 88,
+            "name": "sprite_653",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                252,
+                210,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 89,
+            "name": "sprite_654",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                378,
+                210,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 90,
+            "name": "sprite_655",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                504,
+                210,
+                70,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 91,
+            "name": "sprite_656",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                574,
+                210,
+                70,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 92,
+            "name": "sprite_657",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                644,
+                211,
+                99,
+                37
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 93,
+            "name": "sprite_658",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                743,
+                212,
+                36,
+                36
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 94,
+            "name": "sprite_659",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                779,
+                214,
+                126,
+                34
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 95,
+            "name": "sprite_660",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                905,
+                216,
+                100,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 96,
+            "name": "sprite_661",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                210,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 97,
+            "name": "sprite_662",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                336,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 98,
+            "name": "sprite_663",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                462,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 99,
+            "name": "sprite_664",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                588,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 100,
+            "name": "sprite_665",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                714,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 101,
+            "name": "sprite_666",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                840,
+                248,
+                126,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 102,
+            "name": "sprite_667",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                182,
+                286,
+                182,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 103,
+            "name": "sprite_668",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                364,
+                286,
+                182,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 104,
+            "name": "sprite_669",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                546,
+                286,
+                182,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 105,
+            "name": "sprite_670",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                728,
+                286,
+                42,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 106,
+            "name": "sprite_671",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                770,
+                289,
+                39,
+                39
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 107,
+            "name": "sprite_672",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                809,
+                290,
+                210,
+                38
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 108,
+            "name": "sprite_673",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                64,
+                328,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 109,
+            "name": "sprite_674",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                128,
+                328,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 110,
+            "name": "sprite_675",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                192,
+                330,
+                126,
+                62
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 111,
+            "name": "sprite_676",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                318,
+                330,
+                126,
+                62
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 112,
+            "name": "sprite_677",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                444,
+                342,
+                62,
+                50
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 113,
+            "name": "sprite_678",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                506,
+                342,
+                62,
+                50
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 114,
+            "name": "sprite_679",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                568,
+                343,
+                79,
+                49
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 115,
+            "name": "sprite_680",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                647,
+                346,
+                77,
+                46
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 116,
+            "name": "sprite_681",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                647,
+                330,
+                260,
+                16
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 117,
+            "name": "sprite_682",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                724,
+                350,
+                182,
+                42
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 118,
+            "name": "sprite_683",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                122,
+                418,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 119,
+            "name": "sprite_684",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                248,
+                418,
+                126,
+                94
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 120,
+            "name": "sprite_685",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                374,
+                423,
+                327,
+                89
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 121,
+            "name": "sprite_686",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                701,
+                435,
+                100,
+                77
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 122,
+            "name": "sprite_687",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                801,
+                435,
+                99,
+                77
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 123,
+            "name": "sprite_688",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                900,
+                448,
+                64,
+                64
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 124,
+    "rotations": false,
+    "using_grid": false,
+    "width": 512
+}

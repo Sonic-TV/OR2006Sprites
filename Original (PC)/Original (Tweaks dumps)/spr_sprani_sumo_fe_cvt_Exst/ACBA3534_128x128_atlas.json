@@ -1,0 +1,197 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 128,
+    "image": "ACBA3534_128x128.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_470",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                98,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_471",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                37,
+                98,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_472",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                74,
+                98,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_473",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                68,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_474",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                37,
+                68,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_475",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                74,
+                68,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_476",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                38,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "sprite_477",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                37,
+                38,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 8,
+            "name": "sprite_478",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                74,
+                38,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 9,
+            "name": "sprite_479",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                8,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 10,
+            "name": "sprite_480",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                37,
+                8,
+                37,
+                30
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 11,
+            "name": "sprite_481",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                74,
+                8,
+                37,
+                30
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 12,
+    "rotations": false,
+    "using_grid": false,
+    "width": 128
+}
