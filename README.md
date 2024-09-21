@@ -10,6 +10,8 @@ A repository hosting all sprites that have been ripped from the various Outrun 2
 
 [Outrun Tweaks Discord](https://discord.gg/GFjKAMg83t)
 
+[GameBanana mod page](https://gamebanana.com/games/20751)
+
 
 # Official Media Kit Assets
 Contains some HQ cars, logos, and various other images of note.
