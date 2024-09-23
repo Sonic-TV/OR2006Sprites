@@ -10,24 +10,8 @@ A repository hosting all sprites that have been ripped from the various Outrun 2
 
 [Outrun Tweaks Discord](https://discord.gg/GFjKAMg83t)
 
-# Misc. Recommended Mods
+[GameBanana mod page](https://gamebanana.com/games/20751)
 
-## [Looping FLAC soundtrack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2273911728)
-Tweaks supports flac and LOOP tags, so this upload by Danhanado adds loop tags to the source music. Driver's Megamix and 1984 Magical Sound Shower are also included in the post, and a new Titlescreen.bik with HQ audio is in the download.
-
-## [Louder Engine Sound](https://github.com/ksdomino/OR2LouderEngineSound/releases)
-The best thing about Outrun is the Music!
-This mod fixes a bug in the original game where the road effects were too loud compared to the music and Ferrari engine.
-This release lowers the volume of the other sound Effects (especially the road effects) by 50% so the engine sounds louder.
-You'll still have he option to turn the music down or sound effects down to create a balance that you like and then turn up the overall volume on your headphones.
-
-EDIT: This mod doesn't make it harder to hear Outrun's amazing music, it actually make it clearer because it fixes a problem in the original release where all road effects are stored in the same .pak file as the engine making everything the same volume! This mod fixes that oversight.
-
-## [SEGA Jingle (flac)](https://files.catbox.moe/t3qja5.flac)
-Rename to sega441.flac, put it in the Sound folder.
-
-## [2SP Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2328433846)
-A new titlescreen that mimics the 2SP arcade intro, completely remade in 4k by Sonic-TV.
 
 # Official Media Kit Assets
 Contains some HQ cars, logos, and various other images of note.
@@ -45,6 +29,7 @@ Contains HD asset remakes and miscellanious retexture mods. Note that WIP contai
 
 ### [UI](/Remakes%20and%20Reskins/UI/)
 
+Before you download any HD sprite remakes, grab the [Higher Quality UI Sprites pack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2248548840) and the Font Fix pack in that same post. Then, grab the [uncensored Clarissa HQ sprite pack.](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2231328011)
 
 #### [Album Covers](/Remakes%20and%20Reskins/UI/Album%20Covers/)
 Contains HD remakes of the music albums.
@@ -102,6 +87,24 @@ Contains alternate liveries for cars. Note that all cars share from the same han
 
 #### [License Plates](/Remakes%20and%20Reskins/License%20Plates/)
 
+# Misc. Recommended Mods
+
+## [Looping FLAC soundtrack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2273911728)
+Tweaks supports flac and LOOP tags, so this upload by Danhanado adds loop tags to the source music. Driver's Megamix and 1984 Magical Sound Shower are also included in the post, and a new Titlescreen.bik with HQ audio is in the download.
+
+## [Louder Engine Sound](https://github.com/ksdomino/OR2LouderEngineSound/releases)
+The best thing about Outrun is the Music!
+This mod fixes a bug in the original game where the road effects were too loud compared to the music and Ferrari engine.
+This release lowers the volume of the other sound Effects (especially the road effects) by 50% so the engine sounds louder.
+You'll still have he option to turn the music down or sound effects down to create a balance that you like and then turn up the overall volume on your headphones.
+
+EDIT: This mod doesn't make it harder to hear Outrun's amazing music, it actually make it clearer because it fixes a problem in the original release where all road effects are stored in the same .pak file as the engine making everything the same volume! This mod fixes that oversight.
+
+## [SEGA Jingle (flac)](https://files.catbox.moe/t3qja5.flac)
+Rename to sega441.flac, put it in the Sound folder.
+
+## [2SP Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2328433846)
+A new titlescreen that mimics the 2SP arcade intro, completely remade in 4k by Sonic-TV.
 
 
 ## Special Thanks to Contributors
