@@ -1,0 +1,2 @@
+spr_sprani_selector_cvt_Exst/
+E31BB4C3_128x512.dds
