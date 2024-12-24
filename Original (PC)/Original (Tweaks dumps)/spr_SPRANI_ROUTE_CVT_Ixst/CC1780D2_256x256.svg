@@ -3,57 +3,163 @@
      width="256" height="256" viewBox="0 0 256 256">
 <defs>
 </defs>
-<rect x="74" y="162" width="15" height="32" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="89" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="114" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="139" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="164" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="189" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="214" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="222" y="231" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="25" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="50" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="75" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="100" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="125" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="150" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="175" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="200" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="225" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="25" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="50" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="75" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="100" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="125" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="150" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="175" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="200" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="225" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="25" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="50" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="75" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="100" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="125" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="150" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="175" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="200" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="225" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="25" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="50" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="75" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="100" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="125" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="150" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="175" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="200" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="225" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="25" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="50" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="75" y="20" width="64" height="12" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="139" y="28" width="35" height="4" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="74" y="162" width="15" height="32" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_23</title>
+</rect>
+<rect x="89" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_24</title>
+</rect>
+<rect x="114" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_25</title>
+</rect>
+<rect x="139" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_26</title>
+</rect>
+<rect x="164" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_27</title>
+</rect>
+<rect x="189" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_28</title>
+</rect>
+<rect x="214" y="169" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_29</title>
+</rect>
+<rect x="222" y="231" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_30</title>
+</rect>
+<rect x="0" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="8">
+<title>sprite_31</title>
+</rect>
+<rect x="25" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="9">
+<title>sprite_32</title>
+</rect>
+<rect x="50" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="10">
+<title>sprite_33</title>
+</rect>
+<rect x="75" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="11">
+<title>sprite_34</title>
+</rect>
+<rect x="100" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="12">
+<title>sprite_35</title>
+</rect>
+<rect x="125" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="13">
+<title>sprite_36</title>
+</rect>
+<rect x="150" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="14">
+<title>sprite_37</title>
+</rect>
+<rect x="175" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="15">
+<title>sprite_38</title>
+</rect>
+<rect x="200" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="16">
+<title>sprite_39</title>
+</rect>
+<rect x="225" y="107" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="17">
+<title>sprite_40</title>
+</rect>
+<rect x="0" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="18">
+<title>sprite_41</title>
+</rect>
+<rect x="25" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="19">
+<title>sprite_42</title>
+</rect>
+<rect x="50" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="20">
+<title>sprite_43</title>
+</rect>
+<rect x="75" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="21">
+<title>sprite_44</title>
+</rect>
+<rect x="100" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="22">
+<title>sprite_45</title>
+</rect>
+<rect x="125" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="23">
+<title>sprite_46</title>
+</rect>
+<rect x="150" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="24">
+<title>sprite_47</title>
+</rect>
+<rect x="175" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="25">
+<title>sprite_48</title>
+</rect>
+<rect x="200" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="26">
+<title>sprite_49</title>
+</rect>
+<rect x="225" y="82" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="27">
+<title>sprite_50</title>
+</rect>
+<rect x="0" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="28">
+<title>sprite_51</title>
+</rect>
+<rect x="25" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="29">
+<title>sprite_52</title>
+</rect>
+<rect x="50" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="30">
+<title>sprite_53</title>
+</rect>
+<rect x="75" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="31">
+<title>sprite_54</title>
+</rect>
+<rect x="100" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="32">
+<title>sprite_55</title>
+</rect>
+<rect x="125" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="33">
+<title>sprite_56</title>
+</rect>
+<rect x="150" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="34">
+<title>sprite_57</title>
+</rect>
+<rect x="175" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="35">
+<title>sprite_58</title>
+</rect>
+<rect x="200" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="36">
+<title>sprite_59</title>
+</rect>
+<rect x="225" y="57" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="37">
+<title>sprite_60</title>
+</rect>
+<rect x="0" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="38">
+<title>sprite_61</title>
+</rect>
+<rect x="25" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="39">
+<title>sprite_62</title>
+</rect>
+<rect x="50" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="40">
+<title>sprite_63</title>
+</rect>
+<rect x="75" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="41">
+<title>sprite_64</title>
+</rect>
+<rect x="100" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="42">
+<title>sprite_65</title>
+</rect>
+<rect x="125" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="43">
+<title>sprite_66</title>
+</rect>
+<rect x="150" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="44">
+<title>sprite_67</title>
+</rect>
+<rect x="175" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="45">
+<title>sprite_68</title>
+</rect>
+<rect x="200" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="46">
+<title>sprite_69</title>
+</rect>
+<rect x="225" y="32" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="47">
+<title>sprite_70</title>
+</rect>
+<rect x="0" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="48">
+<title>sprite_71</title>
+</rect>
+<rect x="25" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="49">
+<title>sprite_72</title>
+</rect>
+<rect x="50" y="7" width="25" height="25" stroke="black" fill="red" fill-opacity="0.1" id="50">
+<title>sprite_73</title>
+</rect>
+<rect x="75" y="20" width="64" height="12" stroke="black" fill="red" fill-opacity="0.1" id="51">
+<title>sprite_74</title>
+</rect>
+<rect x="139" y="28" width="35" height="4" stroke="black" fill="red" fill-opacity="0.1" id="52">
+<title>sprite_75</title>
+</rect>
 </svg>

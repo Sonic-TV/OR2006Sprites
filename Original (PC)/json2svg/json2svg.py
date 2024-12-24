@@ -13,6 +13,7 @@ import os
 
 if __name__ == "__main__":
     print(" >>> Outrun2006 textures to SVG <<< ")
+    print(" >>> Please wait... <<< ")
 
     # Look on the directory for atlas.json files
     top_dir = os.getcwd()
@@ -39,10 +40,18 @@ if __name__ == "__main__":
             data = json.load(f)
         
         # Create canvas
+        w,h = wxh.split('x')
         #w = data.get('width')      # Sometimes doesn't match
         #h = data.get('height')     # Should always match
-
-        w,h = wxh.split('x')
+        '''
+        if(int(w) != data.get('width') ):   # TODO: Check half or double?
+            if(int(w) != 2*data.get('width') ):
+                print("Warn - W-half")
+            if((2*int(w)) != data.get('width') ):
+                print("Warn - W-double")
+        '''
+        if(int(h) != data.get('height') ):
+            print("Warn - H")
         d = draw.Drawing(w,h)
         
         # Draw a rectangle
@@ -52,7 +61,10 @@ if __name__ == "__main__":
             py = rect[1]
             pw = rect[2]
             pl = rect[3]
-            r = draw.Rectangle(px, py, pw, pl, stroke='black', fill='red', fill_opacity=0.1)
+            idx = this_region.get('idx')
+            r = draw.Rectangle(px, py, pw, pl, stroke='black', fill='red', fill_opacity=0.1, id=idx)
+            title = this_region.get('name')
+            r.append_title(title)  # Add a tooltip
             d.append(r)
 
         d.set_pixel_scale(1)  # Set number of pixels per geometry unit

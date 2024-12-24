@@ -3,10 +3,22 @@
      width="512" height="256" viewBox="0 0 512 256">
 <defs>
 </defs>
-<rect x="130" y="126" width="130" height="130" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="126" width="130" height="130" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="260" y="190" width="130" height="66" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="390" y="190" width="66" height="66" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="26" width="470" height="50" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="76" width="470" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="130" y="126" width="130" height="130" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_191</title>
+</rect>
+<rect x="0" y="126" width="130" height="130" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_192</title>
+</rect>
+<rect x="260" y="190" width="130" height="66" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_193</title>
+</rect>
+<rect x="390" y="190" width="66" height="66" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_194</title>
+</rect>
+<rect x="0" y="26" width="470" height="50" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_195</title>
+</rect>
+<rect x="0" y="76" width="470" height="50" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_196</title>
+</rect>
 </svg>

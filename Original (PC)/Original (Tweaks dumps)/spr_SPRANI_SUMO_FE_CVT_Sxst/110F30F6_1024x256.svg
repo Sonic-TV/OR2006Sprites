@@ -3,8 +3,16 @@
      width="1024" height="256" viewBox="0 0 1024 256">
 <defs>
 </defs>
-<rect x="0" y="173" width="512" height="83" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="512" y="173" width="512" height="83" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="90" width="128" height="83" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="128" y="90" width="128" height="83" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="173" width="512" height="83" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_507</title>
+</rect>
+<rect x="512" y="173" width="512" height="83" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_508</title>
+</rect>
+<rect x="0" y="90" width="128" height="83" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_509</title>
+</rect>
+<rect x="128" y="90" width="128" height="83" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_510</title>
+</rect>
 </svg>

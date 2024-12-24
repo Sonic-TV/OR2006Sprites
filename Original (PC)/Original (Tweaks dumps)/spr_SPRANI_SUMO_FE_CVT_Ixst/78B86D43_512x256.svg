@@ -3,13 +3,31 @@
      width="512" height="256" viewBox="0 0 512 256">
 <defs>
 </defs>
-<rect x="0" y="79" width="387" height="177" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="387" y="215" width="87" height="41" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="55" width="222" height="24" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="222" y="55" width="222" height="24" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="34" width="202" height="21" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="202" y="34" width="202" height="21" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="14" width="319" height="20" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="319" y="22" width="127" height="12" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="446" y="22" width="16" height="12" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="79" width="387" height="177" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_59</title>
+</rect>
+<rect x="387" y="215" width="87" height="41" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_60</title>
+</rect>
+<rect x="0" y="55" width="222" height="24" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_61</title>
+</rect>
+<rect x="222" y="55" width="222" height="24" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_62</title>
+</rect>
+<rect x="0" y="34" width="202" height="21" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_63</title>
+</rect>
+<rect x="202" y="34" width="202" height="21" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_64</title>
+</rect>
+<rect x="0" y="14" width="319" height="20" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_65</title>
+</rect>
+<rect x="319" y="22" width="127" height="12" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_66</title>
+</rect>
+<rect x="446" y="22" width="16" height="12" stroke="black" fill="red" fill-opacity="0.1" id="8">
+<title>sprite_67</title>
+</rect>
 </svg>

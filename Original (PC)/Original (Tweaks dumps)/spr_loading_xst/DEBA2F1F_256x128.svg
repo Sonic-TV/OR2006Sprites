@@ -3,20 +3,52 @@
      width="256" height="128" viewBox="0 0 256 128">
 <defs>
 </defs>
-<rect x="0" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="37" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="74" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="111" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="84" width="149" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="106" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="39" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="128" y="37" width="64" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="128" y="106" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="62" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="220" y="87" width="36" height="16" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="220" y="67" width="36" height="16" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="148" y="0" width="40" height="37" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="192" y="0" width="64" height="64" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="153" y="84" width="64" height="22" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="128" y="62" width="32" height="22" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_0</title>
+</rect>
+<rect x="37" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_1</title>
+</rect>
+<rect x="74" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_2</title>
+</rect>
+<rect x="111" y="0" width="37" height="37" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_3</title>
+</rect>
+<rect x="0" y="84" width="149" height="22" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_4</title>
+</rect>
+<rect x="0" y="106" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_5</title>
+</rect>
+<rect x="0" y="39" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_6</title>
+</rect>
+<rect x="128" y="37" width="64" height="22" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_7</title>
+</rect>
+<rect x="128" y="106" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" id="8">
+<title>sprite_8</title>
+</rect>
+<rect x="0" y="62" width="128" height="22" stroke="black" fill="red" fill-opacity="0.1" id="9">
+<title>sprite_9</title>
+</rect>
+<rect x="220" y="87" width="36" height="16" stroke="black" fill="red" fill-opacity="0.1" id="10">
+<title>sprite_10</title>
+</rect>
+<rect x="220" y="67" width="36" height="16" stroke="black" fill="red" fill-opacity="0.1" id="11">
+<title>sprite_11</title>
+</rect>
+<rect x="148" y="0" width="40" height="37" stroke="black" fill="red" fill-opacity="0.1" id="12">
+<title>sprite_12</title>
+</rect>
+<rect x="192" y="0" width="64" height="64" stroke="black" fill="red" fill-opacity="0.1" id="13">
+<title>sprite_13</title>
+</rect>
+<rect x="153" y="84" width="64" height="22" stroke="black" fill="red" fill-opacity="0.1" id="14">
+<title>sprite_14</title>
+</rect>
+<rect x="128" y="62" width="32" height="22" stroke="black" fill="red" fill-opacity="0.1" id="15">
+<title>sprite_15</title>
+</rect>
 </svg>
