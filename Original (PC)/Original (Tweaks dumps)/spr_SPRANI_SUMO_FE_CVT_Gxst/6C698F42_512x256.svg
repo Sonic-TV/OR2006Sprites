@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="512" height="256" viewBox="0 0 512 256">
+<defs>
+</defs>
+<rect x="0" y="222" width="351" height="34" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="206" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="206" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="190" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="190" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="174" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="174" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="158" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="158" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="142" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="142" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="126" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="126" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="110" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="189" y="110" width="189" height="16" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="351" y="242" width="80" height="14" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="431" y="242" width="80" height="14" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="378" y="113" width="28" height="13" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="406" y="114" width="30" height="12" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="436" y="114" width="30" height="12" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="466" y="115" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="483" y="115" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="378" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="395" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="412" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="429" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="446" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="463" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="480" y="131" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="378" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="395" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="412" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="429" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="446" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="463" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="480" y="147" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="378" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="395" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="412" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="429" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="446" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="463" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="480" y="163" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="378" y="179" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="395" y="179" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="412" y="179" width="17" height="11" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="497" y="133" width="14" height="9" stroke="black" fill="red" fill-opacity="0.1" />
+</svg>
