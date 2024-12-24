@@ -1,14 +1,15 @@
 #!/usr/bin/python
 # Python3 script
 # Made by Envido32
+# Quick script to analize all the atlas.json files on the texture dumps
+# Creates a SVG file with the same name and the rectanbles of each texture.
+# To use just copy the texture dump folders on the load directory
+# ej: "load\spr_SPRANI_CLAR_RANK_Sxst\F043316B_1024x512_atlas.json"
+# Output: "save\spr_SPRANI_CLAR_RANK_Sxst\F043316B_1024x512.svg"
 
 import drawsvg as draw      # python -m pip install drawsvg
 import json
 import os
-
-# Config Constants 
-#debug = True       #DEBUG
-debug = False       #DEBUG
 
 if __name__ == "__main__":
     print(" >>> Outrun2006 textures to SVG <<< ")
@@ -38,7 +39,6 @@ if __name__ == "__main__":
             data = json.load(f)
         
         # Create canvas
-
         #w = data.get('width')      # Sometimes doesn't match
         #h = data.get('height')     # Should always match
 
