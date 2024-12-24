@@ -3,5 +3,7 @@
      width="32" height="512" viewBox="0 0 32 512">
 <defs>
 </defs>
-<rect x="0" y="202" width="22" height="310" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="202" width="22" height="310" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_517</title>
+</rect>
 </svg>

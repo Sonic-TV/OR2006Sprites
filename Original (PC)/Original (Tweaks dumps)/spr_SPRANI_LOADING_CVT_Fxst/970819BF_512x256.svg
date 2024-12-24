@@ -3,9 +3,19 @@
      width="512" height="256" viewBox="0 0 512 256">
 <defs>
 </defs>
-<rect x="1" y="1" width="298" height="202" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="301" y="1" width="126" height="30" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="301" y="33" width="126" height="30" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="429" y="1" width="80" height="30" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="429" y="33" width="80" height="30" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="1" width="298" height="202" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_13</title>
+</rect>
+<rect x="301" y="1" width="126" height="30" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_14</title>
+</rect>
+<rect x="301" y="33" width="126" height="30" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_15</title>
+</rect>
+<rect x="429" y="1" width="80" height="30" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_16</title>
+</rect>
+<rect x="429" y="33" width="80" height="30" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_17</title>
+</rect>
 </svg>

@@ -3,6 +3,10 @@
      width="256" height="64" viewBox="0 0 256 64">
 <defs>
 </defs>
-<rect x="0" y="26" width="226" height="38" stroke="black" fill="red" fill-opacity="0.1" />
-<rect x="0" y="11" width="128" height="15" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="26" width="226" height="38" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_3</title>
+</rect>
+<rect x="0" y="11" width="128" height="15" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_4</title>
+</rect>
 </svg>
