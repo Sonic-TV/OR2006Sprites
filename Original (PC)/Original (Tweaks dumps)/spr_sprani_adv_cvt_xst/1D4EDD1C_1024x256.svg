@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1024" height="256" viewBox="0 0 1024 256">
+<defs>
+</defs>
+<rect x="0" y="126" width="258" height="130" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="258" y="218" width="602" height="38" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="92" width="282" height="34" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="282" y="92" width="230" height="34" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="512" y="94" width="32" height="32" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="544" y="94" width="32" height="32" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="576" y="94" width="32" height="32" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="608" y="94" width="32" height="32" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="640" y="94" width="32" height="32" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="672" y="96" width="30" height="30" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="702" y="96" width="30" height="30" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="732" y="96" width="26" height="30" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="758" y="100" width="238" height="26" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="0" y="66" width="238" height="26" stroke="black" fill="red" fill-opacity="0.1" />
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="512" height="512" viewBox="0 0 512 512">
+<defs>
+</defs>
+<rect x="1" y="1" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="93" y="1" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="185" y="1" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="277" y="1" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="369" y="1" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="73" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="93" y="73" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="185" y="73" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="277" y="73" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="369" y="73" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="145" width="90" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="217" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="85" y="217" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="169" y="209" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="253" y="209" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="337" y="197" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="421" y="197" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="289" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="85" y="289" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="169" y="281" width="82" height="70" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="93" y="145" width="95" height="62" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="191" y="145" width="95" height="62" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="289" y="145" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="381" y="145" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="253" y="281" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="345" y="269" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="361" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="93" y="361" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="185" y="353" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="277" y="333" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="369" y="321" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="1" y="413" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="93" y="413" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="185" y="405" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="277" y="385" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="369" y="373" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="253" y="457" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="345" y="437" width="90" height="50" stroke="black" fill="red" fill-opacity="0.1" />
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="128" height="512" viewBox="0 0 128 512">
+<defs>
+</defs>
+<rect x="1" y="1" width="30" height="502" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="33" y="1" width="30" height="502" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="65" y="1" width="30" height="502" stroke="black" fill="red" fill-opacity="0.1" />
+<rect x="97" y="1" width="30" height="502" stroke="black" fill="red" fill-opacity="0.1" />
+</svg>
