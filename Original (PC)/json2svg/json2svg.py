@@ -80,6 +80,7 @@ if __name__ == "__main__":
             load_file = top_dir + "\\load\\" + this_file
             with open(load_file,"r") as f:
                 data = json.load(f)
+                data_org = data.copy()
             
             # Create canvas
             w,h = wxh.split('x')
@@ -94,6 +95,10 @@ if __name__ == "__main__":
                 print("Warn - H")
             d = drawsvg.Drawing(w,h)
             d4x = drawsvg.Drawing(4*w,4*h)
+            data.update({'height': 4*h})
+            data.update({'width': 4*w})
+            name_4x = "4x_" + data.get('image')
+            data.update({'image': name_4x})
             
             # Draw a rectangle
             for this_region in data.get('regions'):
@@ -111,41 +116,50 @@ if __name__ == "__main__":
                 d.append(r)
                 d4x.append(r4x)
 
+                region_org = this_region.copy()
+                this_region.update({'rect': 
+                                 [4*rect[0], 
+                                  4*rect[1], 
+                                  4*rect[2], 
+                                  4*rect[3] 
+                                  ]})
+                                
                 # Save data to CSV
                 writer.writerow({
-                    'fill_rate':	data.get('fill_rate'),
-                    'grid_height':	data.get('grid_height'),
-                    'grid_width':	data.get('grid_width'),
-                    'height':	    data.get('height'),
-                    'image':	    data.get('image'),
-                    'type':	        data.get('name'),
-                    'padding_x':	data.get('padding_x'),
-                    'padding_y':	data.get('padding_y'),
-                    'pot':	        data.get('pot'),
-                    'regions_count':data.get('regions_count'),
-                    'rotations':	data.get('rotations'),
-                    'using_grid':	data.get('using_grid'),
-                    'width':	    data.get('width'),
+                    'fill_rate':	data_org.get('fill_rate'),
+                    'grid_height':	data_org.get('grid_height'),
+                    'grid_width':	data_org.get('grid_width'),
+                    'height':	    data_org.get('height'),
+                    'image':	    data_org.get('image'),
+                    'type':	        data_org.get('name'),
+                    'padding_x':	data_org.get('padding_x'),
+                    'padding_y':	data_org.get('padding_y'),
+                    'pot':	        data_org.get('pot'),
+                    'regions_count':data_org.get('regions_count'),
+                    'rotations':	data_org.get('rotations'),
+                    'using_grid':	data_org.get('using_grid'),
+                    'width':	    data_org.get('width'),
 
                     'hash':	        hash,
                     'w_fixed':	    w,
                     'h_fixed':	    h,
                     'path':	        file_path,
 
-                    'idx':	        this_region.get('idx'),
-                    'sprite':	    this_region.get('name'),
-                    'orx':	        this_region.get('origin')[0],
-                    'ory':	        this_region.get('origin')[1],
-                    'rx':	        this_region.get('rect')[0],
-                    'ry':	        this_region.get('rect')[1],
-                    'rw':	        this_region.get('rect')[2],
-                    'rl':	        this_region.get('rect')[3],
-                    'rotated':	    this_region.get('rotated'),
+                    'idx':	        region_org.get('idx'),
+                    'sprite':	    region_org.get('name'),
+                    'orx':	        region_org.get('origin')[0],
+                    'ory':	        region_org.get('origin')[1],
+                    'rx':	        region_org.get('rect')[0],
+                    'ry':	        region_org.get('rect')[1],
+                    'rw':	        region_org.get('rect')[2],
+                    'rl':	        region_org.get('rect')[3],
+                    'rotated':	    region_org.get('rotated'),
                     'status':	    'red'
                     })
 
             d.set_pixel_scale(1)  # Set number of pixels per geometry unit
             d4x.set_pixel_scale(1)  # Set number of pixels per geometry unit
+
             save_dir = top_dir + "\\save\\" + file_path
             # Create output dir
             try:
@@ -161,5 +175,11 @@ if __name__ == "__main__":
             svg_file = hash + "_" + wxh + ".svg"
             svg_file = save_dir + "\\4x_" + svg_file
             d4x.save_svg(svg_file)
+
+            json_file = hash + "_" + wxh + "_atlas.json"
+            json_file = save_dir + "\\4x_" + json_file
+            with open(json_file, "w") as outfile:
+                json_object = json.dumps(data, indent=4)
+                outfile.write(json_object)
     print(" >>> All files preccessed! <<< ")
     
