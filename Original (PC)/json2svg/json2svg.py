@@ -85,12 +85,15 @@ if __name__ == "__main__":
             w,h = wxh.split('x')
             #w = data.get('width')      # Sometimes doesn't match
             #h = data.get('height')     # Should always match
-            if(int(w) != data.get('width') ):   # TODO: Check half or double?
+            w = int(w)
+            h = int(h)
+            if(w != data.get('width') ):   # TODO: Check half or double?
                 aux = int(w)/data.get('width')
                 #print("Warn - W: " + str(aux))
-            if(int(h) != data.get('height') ):
+            if(h != data.get('height') ):
                 print("Warn - H")
             d = drawsvg.Drawing(w,h)
+            d4x = drawsvg.Drawing(4*w,4*h)
             
             # Draw a rectangle
             for this_region in data.get('regions'):
@@ -101,9 +104,12 @@ if __name__ == "__main__":
                 rl = rect[3]
                 idx = this_region.get('idx')
                 r = drawsvg.Rectangle(rx, ry, rw, rl, stroke='black', fill='red', fill_opacity=0.1, id=idx)
+                r4x = drawsvg.Rectangle(4*rx, 4*ry, 4*rw, 4*rl, stroke='black', fill='red', fill_opacity=0.1, id=idx)
                 title = this_region.get('name')
                 r.append_title(title)  # Add a tooltip
+                r4x.append_title(title)  # Add a tooltip
                 d.append(r)
+                d4x.append(r4x)
 
                 # Save data to CSV
                 writer.writerow({
@@ -127,7 +133,7 @@ if __name__ == "__main__":
                     'path':	        file_path,
 
                     'idx':	        this_region.get('idx'),
-                    'sprite':	this_region.get('name'),
+                    'sprite':	    this_region.get('name'),
                     'orx':	        this_region.get('origin')[0],
                     'ory':	        this_region.get('origin')[1],
                     'rx':	        this_region.get('rect')[0],
@@ -139,6 +145,7 @@ if __name__ == "__main__":
                     })
 
             d.set_pixel_scale(1)  # Set number of pixels per geometry unit
+            d4x.set_pixel_scale(1)  # Set number of pixels per geometry unit
             save_dir = top_dir + "\\save\\" + file_path
             # Create output dir
             try:
@@ -150,5 +157,9 @@ if __name__ == "__main__":
             svg_file = hash + "_" + wxh + ".svg"
             svg_file = save_dir + "\\" + svg_file
             d.save_svg(svg_file)
+            
+            svg_file = hash + "_" + wxh + ".svg"
+            svg_file = save_dir + "\\4x_" + svg_file
+            d4x.save_svg(svg_file)
     print(" >>> All files preccessed! <<< ")
     
