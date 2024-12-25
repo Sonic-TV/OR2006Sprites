@@ -72,6 +72,7 @@ if __name__ == "__main__":
         writer = csv.DictWriter(csv_file, fieldnames=fields)
         writer.writeheader()
         
+        json_db = []
         for this_file in json_files:
             file_path = os.path.dirname(this_file)
             file_name = os.path.basename(this_file)
@@ -81,6 +82,13 @@ if __name__ == "__main__":
             with open(load_file,"r") as f:
                 data = json.load(f)
                 data_org = data.copy()
+            
+            this_json = {
+                'path': file_path,
+                'hash': hash,
+                'data': data_org
+            }
+            json_db.append(this_json)
             
             # Create canvas
             w,h = wxh.split('x')
@@ -181,5 +189,9 @@ if __name__ == "__main__":
             with open(json_file, "w") as outfile:
                 json_object = json.dumps(data, indent=4)
                 outfile.write(json_object)
+
+    with open("atlas_db.json", "w") as outfile:
+        atlas_object = json.dumps(json_db, indent=4)
+        outfile.write(atlas_object)
     print(" >>> All files preccessed! <<< ")
     
