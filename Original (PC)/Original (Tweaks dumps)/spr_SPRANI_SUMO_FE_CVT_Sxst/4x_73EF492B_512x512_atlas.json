@@ -1,0 +1,122 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 2048,
+    "image": "4x_73EF492B_512x512.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_482",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                1160,
+                748,
+                888
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_483",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                748,
+                1160,
+                748,
+                888
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_484",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                1004,
+                2048,
+                156
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_485",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1496,
+                1948,
+                92,
+                100
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_486",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1588,
+                1972,
+                200,
+                76
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_487",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1788,
+                1972,
+                200,
+                76
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_488",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1988,
+                1988,
+                60,
+                60
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 7,
+    "rotations": false,
+    "using_grid": false,
+    "width": 2048
+}

@@ -1,0 +1,47 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1024,
+    "image": "4x_4D49CA85_512x256.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_761",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                136,
+                748,
+                888
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_762",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                748,
+                136,
+                748,
+                888
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 2,
+    "rotations": false,
+    "using_grid": false,
+    "width": 2048
+}
