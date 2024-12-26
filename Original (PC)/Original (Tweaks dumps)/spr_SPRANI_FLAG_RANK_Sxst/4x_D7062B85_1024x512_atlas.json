@@ -1,0 +1,137 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 2048,
+    "image": "4x_D7062B85_1024x512.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_8",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                456,
+                1088,
+                1592
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_9",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1088,
+                1032,
+                2048,
+                1016
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_10",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1088,
+                16,
+                1720,
+                1016
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_11",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2808,
+                16,
+                1016,
+                1016
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_12",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                3136,
+                1672,
+                504,
+                376
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_13",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                80,
+                504,
+                376
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_14",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                504,
+                80,
+                504,
+                376
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "sprite_15",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                3136,
+                1296,
+                504,
+                376
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 8,
+    "rotations": false,
+    "using_grid": false,
+    "width": 4096
+}
