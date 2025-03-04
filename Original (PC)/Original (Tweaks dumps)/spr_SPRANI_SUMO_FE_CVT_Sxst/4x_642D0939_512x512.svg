@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2048" height="2048" viewBox="0 0 2048 2048">
+<defs>
+</defs>
+<rect x="0" y="1716" width="2048" height="332" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_511</title>
+</rect>
+<rect x="0" y="1384" width="2048" height="332" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_512</title>
+</rect>
+<rect x="0" y="1052" width="2048" height="332" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_513</title>
+</rect>
+<rect x="0" y="720" width="2048" height="332" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_514</title>
+</rect>
+<rect x="0" y="388" width="512" height="332" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_515</title>
+</rect>
+<rect x="512" y="388" width="512" height="332" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_516</title>
+</rect>
+<rect x="1024" y="388" width="512" height="332" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_517</title>
+</rect>
+<rect x="1536" y="388" width="512" height="332" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_518</title>
+</rect>
+</svg>

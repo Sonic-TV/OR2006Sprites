@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+</defs>
+<rect x="0" y="724" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_681</title>
+</rect>
+<rect x="264" y="724" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_682</title>
+</rect>
+<rect x="528" y="724" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_683</title>
+</rect>
+<rect x="0" y="424" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_684</title>
+</rect>
+<rect x="264" y="424" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_685</title>
+</rect>
+<rect x="528" y="424" width="264" height="300" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_686</title>
+</rect>
+<rect x="0" y="344" width="264" height="80" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_687</title>
+</rect>
+<rect x="264" y="344" width="264" height="80" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_688</title>
+</rect>
+<rect x="0" y="280" width="504" height="64" stroke="black" fill="red" fill-opacity="0.1" id="8">
+<title>sprite_689</title>
+</rect>
+<rect x="504" y="284" width="56" height="60" stroke="black" fill="red" fill-opacity="0.1" id="9">
+<title>sprite_690</title>
+</rect>
+<rect x="560" y="292" width="56" height="52" stroke="black" fill="red" fill-opacity="0.1" id="10">
+<title>sprite_691</title>
+</rect>
+<rect x="616" y="296" width="80" height="48" stroke="black" fill="red" fill-opacity="0.1" id="11">
+<title>sprite_692</title>
+</rect>
+</svg>

@@ -59,3 +59,4 @@ For PS or Keyboard button prompts change for your choice in [the repo directory]
     - Sonic-TV
     - emoose
     - Envido32
+    - kormann

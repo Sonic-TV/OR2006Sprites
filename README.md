@@ -123,3 +123,5 @@ Various contributors (let me know if I forgot someone, I'm forgetful):
 * thegreatprophetzarquon
 * Danhanado
 * k0pp0
+* Envido32
+* kormann

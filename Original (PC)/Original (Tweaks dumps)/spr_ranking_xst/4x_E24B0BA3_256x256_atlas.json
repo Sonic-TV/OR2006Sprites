@@ -1,0 +1,212 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1024,
+    "image": "4x_E24B0BA3_256x256.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_37",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                204,
+                256,
+                256
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_38",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                256,
+                204,
+                256,
+                256
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_39",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                288,
+                96,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_40",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                192,
+                96,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_41",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                96,
+                96,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_42",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                96,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_43",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                288,
+                0,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 7,
+            "name": "sprite_44",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                192,
+                0,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 8,
+            "name": "sprite_45",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                96,
+                0,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 9,
+            "name": "sprite_46",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                0,
+                96,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 10,
+            "name": "sprite_47",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                676,
+                0,
+                80,
+                80
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 11,
+            "name": "sprite_48",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                596,
+                0,
+                80,
+                80
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 12,
+            "name": "sprite_49",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                516,
+                0,
+                80,
+                80
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 13,
+    "rotations": false,
+    "using_grid": false,
+    "width": 1024
+}

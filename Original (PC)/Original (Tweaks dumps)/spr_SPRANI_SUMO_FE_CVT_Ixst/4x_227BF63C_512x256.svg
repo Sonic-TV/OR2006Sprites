@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2048" height="1024" viewBox="0 0 2048 1024">
+<defs>
+</defs>
+<rect x="0" y="696" width="2000" height="328" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_14</title>
+</rect>
+<rect x="0" y="368" width="560" height="328" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_15</title>
+</rect>
+<rect x="560" y="532" width="1168" height="164" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_16</title>
+</rect>
+</svg>
