@@ -1,0 +1,62 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 2048,
+    "image": "4x_FBCAB18D_1024x512.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_0",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                456,
+                1248,
+                1592
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_1",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1248,
+                456,
+                1196,
+                1592
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_2",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2444,
+                456,
+                1100,
+                1592
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 3,
+    "rotations": false,
+    "using_grid": false,
+    "width": 4096
+}

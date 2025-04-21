@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2048" height="512" viewBox="0 0 2048 512">
+<defs>
+</defs>
+<rect x="0" y="328" width="132" height="184" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_20</title>
+</rect>
+<rect x="132" y="424" width="1168" height="88" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_21</title>
+</rect>
+<rect x="0" y="240" width="1168" height="88" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_22</title>
+</rect>
+<rect x="0" y="152" width="1168" height="88" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_23</title>
+</rect>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="512" height="512" viewBox="0 0 512 512">
+<defs>
+</defs>
+<rect x="0" y="290" width="187" height="222" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_482</title>
+</rect>
+<rect x="187" y="290" width="187" height="222" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_483</title>
+</rect>
+<rect x="0" y="251" width="512" height="39" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_484</title>
+</rect>
+<rect x="374" y="487" width="23" height="25" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_485</title>
+</rect>
+<rect x="397" y="493" width="50" height="19" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_486</title>
+</rect>
+<rect x="447" y="493" width="50" height="19" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_487</title>
+</rect>
+<rect x="497" y="497" width="15" height="15" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_488</title>
+</rect>
+</svg>

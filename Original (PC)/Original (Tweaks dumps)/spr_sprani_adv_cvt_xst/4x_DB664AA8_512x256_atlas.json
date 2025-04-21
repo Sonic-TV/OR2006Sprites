@@ -1,0 +1,107 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1024,
+    "image": "4x_DB664AA8_512x256.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_191",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                520,
+                504,
+                520,
+                520
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_192",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                504,
+                520,
+                520
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_193",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1040,
+                760,
+                520,
+                264
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_194",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1560,
+                760,
+                264,
+                264
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_195",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                104,
+                1880,
+                200
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_196",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                304,
+                1880,
+                200
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 6,
+    "rotations": false,
+    "using_grid": false,
+    "width": 2048
+}
