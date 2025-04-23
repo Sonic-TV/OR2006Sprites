@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1024" height="128" viewBox="0 0 1024 128">
+<defs>
+</defs>
+<rect x="0" y="77" width="181" height="51" stroke="black" fill="red" fill-opacity="0.1" id="0">
+<title>sprite_843</title>
+</rect>
+<rect x="181" y="87" width="191" height="41" stroke="black" fill="red" fill-opacity="0.1" id="1">
+<title>sprite_844</title>
+</rect>
+<rect x="372" y="87" width="74" height="41" stroke="black" fill="red" fill-opacity="0.1" id="2">
+<title>sprite_845</title>
+</rect>
+<rect x="446" y="88" width="150" height="40" stroke="black" fill="red" fill-opacity="0.1" id="3">
+<title>sprite_846</title>
+</rect>
+<rect x="596" y="88" width="123" height="40" stroke="black" fill="red" fill-opacity="0.1" id="4">
+<title>sprite_847</title>
+</rect>
+<rect x="719" y="93" width="275" height="35" stroke="black" fill="red" fill-opacity="0.1" id="5">
+<title>sprite_848</title>
+</rect>
+<rect x="0" y="42" width="121" height="35" stroke="black" fill="red" fill-opacity="0.1" id="6">
+<title>sprite_849</title>
+</rect>
+<rect x="121" y="43" width="482" height="34" stroke="black" fill="red" fill-opacity="0.1" id="7">
+<title>sprite_850</title>
+</rect>
+<rect x="603" y="43" width="212" height="34" stroke="black" fill="red" fill-opacity="0.1" id="8">
+<title>sprite_851</title>
+</rect>
+<rect x="815" y="43" width="193" height="34" stroke="black" fill="red" fill-opacity="0.1" id="9">
+<title>sprite_852</title>
+</rect>
+<rect x="0" y="8" width="113" height="34" stroke="black" fill="red" fill-opacity="0.1" id="10">
+<title>sprite_853</title>
+</rect>
+<rect x="113" y="11" width="186" height="31" stroke="black" fill="red" fill-opacity="0.1" id="11">
+<title>sprite_854</title>
+</rect>
+<rect x="299" y="14" width="163" height="28" stroke="black" fill="red" fill-opacity="0.1" id="12">
+<title>sprite_855</title>
+</rect>
+<rect x="462" y="15" width="133" height="27" stroke="black" fill="red" fill-opacity="0.1" id="13">
+<title>sprite_856</title>
+</rect>
+<rect x="595" y="17" width="116" height="25" stroke="black" fill="red" fill-opacity="0.1" id="14">
+<title>sprite_857</title>
+</rect>
+</svg>

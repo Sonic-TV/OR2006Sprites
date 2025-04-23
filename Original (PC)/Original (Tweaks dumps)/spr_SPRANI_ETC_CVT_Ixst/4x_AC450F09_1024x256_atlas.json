@@ -1,0 +1,122 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 1024,
+    "image": "4x_AC450F09_1024x256.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_556",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                536,
+                1616,
+                488
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_557",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                64,
+                1240,
+                472
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_558",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1240,
+                64,
+                1240,
+                472
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_559",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2480,
+                64,
+                1240,
+                472
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_560",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                3720,
+                64,
+                372,
+                472
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_561",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                1616,
+                552,
+                1240,
+                472
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_562",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2856,
+                552,
+                1240,
+                472
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 7,
+    "rotations": false,
+    "using_grid": false,
+    "width": 4096
+}

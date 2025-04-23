@@ -1,3 +1,0 @@
-spr_sprani_common_cvt_xst/
-110B6849_256x256.dds
-553BF480_128x128.dds

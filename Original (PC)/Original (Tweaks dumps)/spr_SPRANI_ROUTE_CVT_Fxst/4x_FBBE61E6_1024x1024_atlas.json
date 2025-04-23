@@ -1,0 +1,122 @@
+{
+    "fill_rate": 0,
+    "grid_height": 0,
+    "grid_width": 0,
+    "height": 4096,
+    "image": "4x_FBBE61E6_1024x1024.png",
+    "name": "json_atlas",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 0,
+            "name": "sprite_8",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                2176,
+                2048,
+                1920
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 1,
+            "name": "sprite_9",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2048,
+                2176,
+                2048,
+                1920
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 2,
+            "name": "sprite_10",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                512,
+                256,
+                512,
+                1920
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 3,
+            "name": "sprite_11",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                256,
+                512,
+                1920
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 4,
+            "name": "sprite_12",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                2048,
+                1976,
+                1880,
+                200
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 5,
+            "name": "sprite_13",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                3928,
+                2008,
+                168,
+                168
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 6,
+            "name": "sprite_14",
+            "origin": [
+                0,
+                0
+            ],
+            "rect": [
+                0,
+                136,
+                728,
+                120
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 7,
+    "rotations": false,
+    "using_grid": false,
+    "width": 4096
+}
