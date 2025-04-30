@@ -1,0 +1,40 @@
+Comprehensive Sprite Fixes & Controller Prompts Changelog:
+v1: Initial. Clarissa v11, HQ v11, Font Fix v6
+v2: Updated for the latest version of OutRun2006Tweaks which supports autodetection for PlayStation and Xbox button prompts. Now offers each variant of Clarissa. Clarissa v12 and HQ v12.
+
+Clarissa and Holly Sprite Fix Changelog:
+v1: Initial
+v2: Replaced a couple unique C2C textures with higher quality ones from the PS2 port (which I can get to rather haphazardly dump, even though it generates a lot of duplicates).
+v3: Fixed the poor dropshadowing on the PS2 textures with the PC's alpha channel.
+v4: Updated the Outrun 2 SP logo used on the main menu with a higher quality replacement and added the fixed Holly sprites.
+v5: Fixed the variant of the Outrun 2 SP logo to closely match the original one used and grabbed PS2 textures for the remaining couple of chunky sprites left on Clarissa's sprite atlas.
+v6: Fixed sprite cutoff on the button prompt for the "Congratulations" screen.
+v7: Changed "Press Start" from Xbox/original arcade style to Lindbergh/SP style (from "Press Start Button" sprite).
+v8: Updated to keep the original game's file structure so OutRun2006Tweaks can take advantage of the new TextureCache feature.
+v9: Updated the PS/Xbox trigger prompts to use CC0 licensed ones and added the correct sprite for Holly's driver's license in case that feature is ever implemented.
+v10: Minor adjustments/fixes to the button prompts
+v11: Even more minor adjustments/fixes to the button prompts
+v12: Updated for the latest version of OutRun2006Tweaks which supports autodetection for PlayStation and Xbox button prompts. Rerendered trigger prompts from vector source. Cleaned up some compression on Flag Guy and elsewhere.
+
+Higher Quality Original UI Sprites Changelog:
+v1: Initial
+v2: Fixed, as best possible, the very screwy baselines for the Sumo "race the rivals" position counters.
+v3: Added the fonts and the 2nd "Game Over" sprite I forgot about.
+v4: Fixed my export error on the REV light being misaligned and added Jennifer's ranks.
+v5: Updated to keep the original game's file structure so OutRun2006Tweaks can take advantage of the new TextureCache feature.
+v6: Added sprites for the Arcade UI
+v7: Minor cleanup/changes
+v8: Fixed an issue where a slight difference in the alpha channel of certain sprites could alter their border when rendered in-game.
+v9: Minor fixes/edits
+v10: "Race the Rivals" position baselines further fixed from the base game.
+v11: Coast 2 Coast finish line crowd textures upgraded with higher quality equivalents from the rest of the game's goals.
+v12: Further fixes to the ordinal indicators. They are still wonky, but are about the best I can get them. Rolled in the "Game Over" and smaller position counter font fixes. Added a fix for the C2C model menus (thanks to Zoukambada for the info). Centered the mission select wheel. Various upgrades from PS2 textures.
+
+Font Fix Changelog (Depreciated):
+v1: Initial
+v2: Removed ordinal indicators
+v3: Added arcade "Goal" kerning.
+v4: Updated to keep the original game's file structure so OutRun2006Tweaks can take advantage of the new TextureCache feature.
+v5: Inherits latest improvements from base pack
+v6: Inherits latest improvements from base pack
+v None: Depreciated. As I am now happy enough with the ordinal indicators, I've moved the other two font fixes to the base pack to keep things simpler (I don't think they are all that revisionist as they aim to match the arcade).
