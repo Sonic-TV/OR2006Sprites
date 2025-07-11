@@ -1,0 +1,45 @@
+/spr_sprani_selector_cvt_Exst/
+
+steering wheel + pedals + arcade buttons
+788CE557
+stwheel 232x232 : 4 = 58px
+gas 232x232 : 4 = 58px
+red button 232x232 : 4 = 58px
+
+steering wheel combo
+411827E
+stwheel combo 392x248 (no-arrow: down and up gear state) : 4 = 98x62px
+
+pedals
+C075FB49
+break 240x240 : 4 = 60px
+
+=====
+/spr_sprani_etc_cvt_Exst
+
+steering wheel combo
+BF3EE5C6
+stwheel combo (yellow arrow: down and middle gear state) 464x264 : 4 = 116x66px
+=====
+/spr_sprani_adv_cvt_xst
+
+stwheel-pedals-gears
+C8AA5508
+stwheel (darken) 232x232 : 4 = 58px
+break (default) 256x256 : 4 = 64px
+break (darken) 240x240 : 4 = 60px
+gas (darken) 232x232 : 4 = 58px
+gears (grayscale + yellow arrow: middle and up gear state) 256x256 : 4 = 64px
+
+=====
+/spr_sprani_name_cmn_cvt_xst
+
+pedals
+EA197B71
+break 240x240 : 4 = 60px
+
+steering-wheel - gas - yellow start button
+F227BC4A
+stwheel 232x232 : 4 = 58px
+gas 232x232 : 4 = 58px
+yellow start button 240x240 : 4 = 60px
