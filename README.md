@@ -1,4 +1,5 @@
-# Contributions welcome!
+<img src="https://i.imgur.com/qPfpS1a.png" width="400"/>
+# OR2006Sprites - Contributions are welcome!
 
 A repository hosting all sprites that have been ripped from the various Outrun 2[006] versions, as well as any HD UI remakes and texture mods. Asset replacements are intended to be used with [OutRun2006 Tweaks.](https://github.com/emoose/OutRun2006Tweaks/)
 
