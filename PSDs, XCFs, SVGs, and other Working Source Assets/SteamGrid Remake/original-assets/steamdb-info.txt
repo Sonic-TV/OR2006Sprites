@@ -1,0 +1,26 @@
+App ID: 4730
+App Type: Game
+Name: OutRun 2006: Coast 2 Coast
+Developer: Sumo Digital
+Publisher: Sega
+Release Release Date: 2 January 2007 - 08:00:00 UTC
+Original Release Date: 25 April 2006 - 07:00:00 UTC
+
+Primary Genre: 9 (Racing)
+Store Genres: 9 (Racing), 5 (Unknown Genre)
+Supported Languages: english/supported: true
+
+metacritic_url:	pc/outrun2006coast2coast
+gamedir:	Outrun2006 Coast 2 Coast
+metacritic_name:	OutRun 2006: Coast 2 Coast
+icon:	steam/games/icon_outrun2006
+metacritic_score:	81
+NoServers:	Yes
+metacritic_fullurl:	https://www.metacritic.com/game/pc/outrun-2006-coast-2-coast?ftag=MCD-06-10aaa1f
+primarycache:	4731
+state:	eStateAvailable
+GameManualURL:	https://store.steampowered.com/manual/4730/
+community_visible_stats:	Yes
+community_hub_visible:	Yes
+
+https://steamdb.info/app/4730/info/
