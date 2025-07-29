@@ -14,6 +14,10 @@ A repository hosting all sprites that have been ripped from the various Outrun 2
 
 [GameBanana mod page](https://gamebanana.com/games/20751)
 
+[SteamGrid Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/SteamGrid%20Remake)
+
+[Logo Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/Logo%20Remake)
+
 
 # Official Media Kit Assets
 Contains some HQ cars, logos, and various other images of note.
@@ -21,8 +25,8 @@ Contains some HQ cars, logos, and various other images of note.
 # Original _____
 Contains texture dumps from different versions of Outrun 2. The PC folder contains a separate subfolder for [or2tool](https://github.com/emoose/OutRun2006Tweaks/issues/90) alongside Tweaks' own internal texture dump folder. Since Tweaks only dumps what is loaded by the game, or2tool is included here to catch any unused files (such as alternate girlfriend colors).
 
-# PSDs
-Contains any PSD files that were shared.
+# PSDs, ...and other Working Source Assets 
+Contains any texture source files that were shared. For up-to-date HQ Car Renders sprites, go to [Xbox car selection renders (resource)](https://github.com/emoose/OutRun2006Tweaks/discussions/271), and for the OutRun2 logos go to [High Resolution Logos (resource)](https://github.com/emoose/OutRun2006Tweaks/discussions/283).
 
 # Remake
 Contains HD asset remakes and miscellanious retexture mods. Note that WIP contains placeholder AI upscale assets, so use those at your own risk or wait until they're complete. The UI folder should be ready to drop into your `textures/load` folder (if they're in subfolders, make sure you move the folders inside to `textures/load`.
@@ -31,9 +35,9 @@ Contains HD asset remakes and miscellanious retexture mods. Note that WIP contai
 
 ### [UI](/Remakes%20and%20Reskins/UI/)
 
-Before you download any HD sprite remakes, grab the [Higher Quality UI Sprites pack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2248548840) and the Font Fix pack in that same post. Then, grab the [uncensored Clarissa HQ sprite pack.](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2231328011)
+Before you download any HD sprite remakes, grab the [Comprehensive Sprite Fixes ](https://gamebanana.com/mods/567962).
 
-#### [Album Covers](/Remakes%20and%20Reskins/UI/Album%20Covers/)
+#### [Album Covers](/Remakes%20and%20Reskins/UI/Album%20covers/spr_sprani_sumo_fe_cvt_Exst)
 Contains HD remakes of the music albums.
 
 #### [Controller Prompts](/Remakes%20and%20Reskins/UI/Button%20Prompts)
@@ -49,10 +53,7 @@ Contains HD versions of the various menu sprites.
 Contains HD versions of the car tachometers.
 
 
-### [Girlfriends](/Remakes%20and%20Reskins/Girlfriends/)
-
-#### Clarissa Holly - Sprite Fix - Lindbergh Sprites Uncensored (v9 by iguanaclerk)
-Contains HQ sprites sourced and cleaned up from the Lindbergh version. Make sure you grab these.
+### [Girlfriends](/Remakes%20and%20Reskins/Girlfriends)
 
 #### Clarissa & Holly Alternate Passenger Colors (Redhead and Brunette respectively)
 Lets you swap out the hair and outfit colors for these two with their unused (rival?) girlfriend versions.
@@ -87,7 +88,7 @@ Contains remakes of the textures that appear on/in player cars.
 #### [Car Reskins](/Remakes%20and%20Reskins/Car%20Detail%20Reskins/)
 Contains alternate liveries for cars. Note that all cars share from the same handful of textures, so you can only really edit the color of two or three cars and have it look good. It is recommended that you pick on car and design/use liveries around that one.
 
-#### [License Plates](/Remakes%20and%20Reskins/License%20Plates/)
+#### [License Plates](/Remakes%20and%20Reskins/Car%20Skins%20and%20Details/License%20Plates/)
 
 # Misc. Recommended Mods
 
@@ -100,7 +101,7 @@ This mod fixes a bug in the original game where the road effects were too loud c
 This release lowers the volume of the other sound Effects (especially the road effects) by 50% so the engine sounds louder.
 You'll still have he option to turn the music down or sound effects down to create a balance that you like and then turn up the overall volume on your headphones.
 
-EDIT: This mod doesn't make it harder to hear Outrun's amazing music, it actually make it clearer because it fixes a problem in the original release where all road effects are stored in the same .pak file as the engine making everything the same volume! This mod fixes that oversight.
+EDIT: This mod doesn't make it harder to hear OutRun's amazing music, it actually make it clearer because it fixes a problem in the original release where all road effects are stored in the same .pak file as the engine making everything the same volume! This mod fixes that oversight.
 
 ## [SEGA Jingle (flac)](https://files.catbox.moe/t3qja5.flac)
 Rename to sega441.flac, put it in the Sound folder.
@@ -108,7 +109,7 @@ Rename to sega441.flac, put it in the Sound folder.
 ## [2SP Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2328433846)
 A new titlescreen that mimics the 2SP arcade intro, completely remade in 4k by Sonic-TV.
 
-## [Outrun 2 Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2746363307)
+## [Outrun 2 Titlescreen Remake](https://gamebanana.com/mods/583388)
 A new titlescreen remake by iguanaclerk.
 
 ## Special Thanks to Contributors
@@ -129,3 +130,4 @@ Various contributors (let me know if I forgot someone, I'm forgetful):
 * k0pp0
 * Envido32
 * kormann
+* SecularSteve
