@@ -40,7 +40,7 @@ It's made for "Xbox Classic" button prompts and "Uncensored Clarissa (Japanese v
 
 For PS or Keyboard button prompts change for your choice in [the repo directory](/Remakes%20and%20Reskins/UI/Button%20Prompts)
 
-**Current version:** Abril-2025-a
+**Current version:** July-2025-a
 
 # Credits
 
@@ -60,3 +60,4 @@ For PS or Keyboard button prompts change for your choice in [the repo directory]
     - emoose
     - Envido32
     - kormann
+	- SecularSteve
