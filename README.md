@@ -2,28 +2,24 @@
 
 # OR2006Sprites - Contributions are welcome!
 
-A repository hosting all sprites that have been ripped from the various Outrun 2[006] versions, as well as any HD UI remakes and texture mods. Asset replacements are intended to be used with [OutRun2006 Tweaks.](https://github.com/emoose/OutRun2006Tweaks/)
+A repository hosting all sprites that have been ripped from the various OutRun 2[006] versions, as well as any HD UI remakes and texture mods. Asset replacements are intended to be used with [OutRun2006 Tweaks.](https://github.com/emoose/OutRun2006Tweaks/)
 
 [Spreadsheet for keeping track of texture remakes, labeling what each sprite is. and other misc. tasks](https://docs.google.com/spreadsheets/d/1UB8UadeAfIDp05Gx6LE92d3eSLO_aBP4eAzCSLXt0Q4/edit?gid=0#gid=0)
 
 [Texture and misc. mods thread on ORTweaks.](https://github.com/emoose/OutRun2006Tweaks/issues/20)
 
-[Outrun 2006 Tweaks server browser](http://clarissa.port0.org/)
+[OutRun 2006 Tweaks server browser](http://clarissa.port0.org/)
 
-[Outrun Tweaks Discord](https://discord.gg/GFjKAMg83t)
+[OutRun Tweaks Discord](https://discord.gg/GFjKAMg83t)
 
 [GameBanana mod page](https://gamebanana.com/games/20751)
-
-[SteamGrid Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/SteamGrid%20Remake)
-
-[Logo Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/Logo%20Remake)
 
 
 # Official Media Kit Assets
 Contains some HQ cars, logos, and various other images of note.
 
 # Original _____
-Contains texture dumps from different versions of Outrun 2. The PC folder contains a separate subfolder for [or2tool](https://github.com/emoose/OutRun2006Tweaks/issues/90) alongside Tweaks' own internal texture dump folder. Since Tweaks only dumps what is loaded by the game, or2tool is included here to catch any unused files (such as alternate girlfriend colors).
+Contains texture dumps from different versions of OutRun 2. The PC folder contains a separate subfolder for [or2tool](https://github.com/emoose/OutRun2006Tweaks/issues/90) alongside Tweaks' own internal texture dump folder. Since Tweaks only dumps what is loaded by the game, or2tool is included here to catch any unused files (such as alternate girlfriend colors).
 
 # PSDs, ...and other Working Source Assets 
 Contains any texture source files that were shared. For up-to-date HQ Car Renders sprites, go to [Xbox car selection renders (resource)](https://github.com/emoose/OutRun2006Tweaks/discussions/271), and for the OutRun2 logos go to [High Resolution Logos (resource)](https://github.com/emoose/OutRun2006Tweaks/discussions/283).
@@ -78,7 +74,7 @@ In this folder, you'll find a texture replacement zip that makes all road signs 
 WIP. Contains new skybox tiles generated in Stable Diffusion 1.5, to replace the often-times super compressed, low quality skyboxes that come with the game.
 
 #### [Sunny Beach buoy (SASRT)](/Remakes%20and%20Reskins/Levels/Sunny%20Beach%20buoy%20(SASRT)/) 
-Replaces the beach buoy arrow on Sunny Beach with an identical, higher quality one from the Outrun Bay level, from Sonic & All Stars Racing Transformed.
+Replaces the beach buoy arrow on Sunny Beach with an identical, higher quality one from the OutRun Bay level, from Sonic & All Stars Racing Transformed.
 
 ### [Car Skins and Details](/Remakes%20and%20Reskins/Car%20Skins%20and%20Details/)
 
@@ -92,11 +88,11 @@ Contains alternate liveries for cars. Note that all cars share from the same han
 
 # Misc. Recommended Mods
 
-## [Looping FLAC soundtrack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2273911728)
+## [Looping FLAC Soundtrack](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2273911728)
 Tweaks supports flac and LOOP tags, so this upload by Danhanado adds loop tags to the source music. Driver's Megamix and 1984 Magical Sound Shower are also included in the post, and a new Titlescreen.bik with HQ audio is in the download.
 
 ## [Louder Engine Sound](https://github.com/ksdomino/OR2LouderEngineSound/releases)
-The best thing about Outrun is the Music!
+The best thing about OutRun is the Music!
 This mod fixes a bug in the original game where the road effects were too loud compared to the music and Ferrari engine.
 This release lowers the volume of the other sound Effects (especially the road effects) by 50% so the engine sounds louder.
 You'll still have he option to turn the music down or sound effects down to create a balance that you like and then turn up the overall volume on your headphones.
@@ -109,11 +105,17 @@ Rename to sega441.flac, put it in the Sound folder.
 ## [2SP Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2328433846)
 A new titlescreen that mimics the 2SP arcade intro, completely remade in 4k by Sonic-TV.
 
-## [Outrun 2 Titlescreen Remake](https://gamebanana.com/mods/583388)
-A new titlescreen remake by iguanaclerk.
+## [OutRun 2 Titlescreen Remake](https://gamebanana.com/mods/583388)
+A new titlescreen remake by thegreatprophetzarquon (iguanaclerk).
+
+## [OR2006 SteamGrid Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/SteamGrid%20Remake)
+Customize your game on Steam library with HQ artworks: banners, poster and icon.
+
+## [OR2006 Logo Remake](/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/Logo%20Remake)
+Customize your game on Steam library with a HQ logo.
 
 ## Special Thanks to Contributors
-emoose for making this possible
+[emoose](https://github.com/emoose/) for making this possible.
 
 Various contributors (let me know if I forgot someone, I'm forgetful):
 * sharkcheese
