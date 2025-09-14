@@ -4,7 +4,7 @@
 
 import os
 
-def scan_directory(root_dir):
+def strip_leading_zeros(root_dir):
     for dirpath, _, filenames in os.walk(root_dir):
         for filename in filenames:
             if not filename.endswith(".dds"):
@@ -22,40 +22,27 @@ def scan_directory(root_dir):
                 continue
 
             h, w = size_part.split("x", 1)
-
-            # Check that h and w are integers
             if not (h.isdigit() and w.isdigit()):
                 continue
 
             # Check that ID is hex
             try:
-                int(file_id, 16)  # will raise ValueError if not hex
+                int(file_id, 16)
             except ValueError:
                 continue
 
-            # Check length of ID
-            id_len = len(file_id)
-            
-            # Too long → just report
-            if id_len > 8:
-                print(f"Invalid ID length ({id_len} digits): {os.path.join(dirpath, filename)}")
+            # Remove leading zeros
+            new_id = file_id.lstrip("0")
 
-            # Too short → pad with zeros and rename
-            elif id_len < 8:
-                new_id = file_id.zfill(8)  # pad with leading zeros
+            # If ID changed, rename file
+            if new_id != file_id:
                 new_name = f"{new_id}_{size_part}{ext}"
                 old_path = os.path.join(dirpath, filename)
                 new_path = os.path.join(dirpath, new_name)
 
-                # Rename file
                 os.rename(old_path, new_path)
-                print(f"Renamed: {old_path} → {new_path}")
-
-            # Exactly 8 → OK (do nothing)
-            else:
-                pass
+                print(f"Renamed: {old_path} -> {new_path}")
 
 if __name__ == "__main__":
-    # root = input("Enter directory to scan: ").strip()
     root = os.getcwd()
-    scan_directory(root)
+    strip_leading_zeros(root)
