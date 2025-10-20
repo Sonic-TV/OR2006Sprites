@@ -36,11 +36,11 @@ There should now be a `/textures/load/` directory with several `spr_*` folders w
 
 # Notes
 
-It's made for "Xbox Classic" button prompts and "Uncensored Clarissa (Japanese version)".
+It's made for "PC Keyboard" button prompts and "Uncensored Clarissa (Japanese version)".
 
-For PS or Keyboard button prompts change for your choice in [the repo directory](/Remakes%20and%20Reskins/UI/Button%20Prompts)
+For Xbox, PS or Switch button prompts change for your choice in [the repo directory](/Remakes%20and%20Reskins/UI/Button%20Prompts)
 
-**Current version:** Sept-2025-b
+**Current version:** Oct-2025-a
 
 # Credits
 
