@@ -8,6 +8,9 @@ Should have give the current best results while keeping the game as faithful to 
 
 This is a collaborative work in process so it's normal to find some upscaled or pixelated textures. The best will be done to keep the pack updated while the rest of the talented artists keep working on the images.
 
+**CURRENTLY ONLY IN ENGLISH:**
+Because of the textures file structure each language needs to be redone from scratch, this duplicates the work needed and it's very time consuming, so other languages won't be supported by this mod until English is full done.
+
 All files where taken from [Sonic-TV OR2006Sprites repo](https://github.com/Sonic-TV/OR2006Sprites) and [emoose Textures thread](https://github.com/emoose/OutRun2006Tweaks/issues/20). 
 
 All credits go to the respective authors.
@@ -40,7 +43,7 @@ It's made for "PC Keyboard" button prompts and "Uncensored Clarissa (Japanese ve
 
 For Xbox, PS or Switch button prompts change for your choice in [the repo directory](/Remakes%20and%20Reskins/UI/Button%20Prompts)
 
-**Current version:** Oct-2025-a
+**Current version:** Sept-2026-a
 
 # Credits
 
